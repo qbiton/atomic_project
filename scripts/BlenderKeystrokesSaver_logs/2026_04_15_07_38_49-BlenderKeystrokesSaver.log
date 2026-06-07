@@ -1,0 +1,331 @@
+[07:38:49] === SESJA ATOMIC START: 2026_04_15_07_38_49 ===
+[07:38:58] KOMENDA: Select (VIEW3D_OT_select)
+[07:45:17] VERTS | A1-bathroom-toilet_instance | [12, 14]
+[07:45:17] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:45:25] VERTS | A1-bathroom-toilet_instance | [0, 2]
+[07:45:25] KOMENDA: Select (VIEW3D_OT_select)
+[07:45:27] VERTS | A1-bathroom-toilet_instance | [0, 1, 2, 7]
+[07:45:30] VERTS | A1-bathroom-toilet_instance | [0, 7]
+[07:45:31] VERTS | A1-bathroom-toilet_instance | [0, 1, 2, 7]
+[07:45:33] VERTS | A1-bathroom-toilet_instance | [0, 1, 2, 7, 20, 21]
+[07:45:33] KOMENDA: Subdivide (MESH_OT_subdivide)
+[07:45:34] VERTS | A1-bathroom-toilet_instance | [20, 21]
+[07:45:34] KOMENDA: Select (VIEW3D_OT_select)
+[07:45:35] VERTS | A1-bathroom-toilet_instance | [0, 2, 20, 21]
+[07:45:37] VERTS | A1-bathroom-toilet_instance | [0, 2, 20, 21, 22, 23]
+[07:45:37] KOMENDA: Subdivide (MESH_OT_subdivide)
+[07:45:39] VERTS | A1-bathroom-toilet_instance | [0, 2, 20, 21, 22, 23, 24, 25]
+[07:45:42] VERTS | A1-bathroom-toilet_instance | [24, 25]
+[07:45:42] KOMENDA: Select (VIEW3D_OT_select)
+[07:45:47] VERTS | A1-bathroom-toilet_instance | [6, 11]
+[07:45:48] VERTS | A1-bathroom-toilet_instance | [0, 21]
+[07:45:53] KOMENDA: Select Mode (MESH_OT_select_mode)
+[07:45:54] VERTS | A1-bathroom-toilet_instance | [5, 6, 9, 11]
+[07:45:54] KOMENDA: Select (VIEW3D_OT_select)
+[07:45:55] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:45:57] KOMENDA: Select Mode (MESH_OT_select_mode)
+[07:45:58] VERTS | A1-bathroom-toilet_instance | [6, 11]
+[07:45:58] KOMENDA: Select (VIEW3D_OT_select)
+[07:46:00] VERTS | A1-bathroom-toilet_instance | [5, 6, 9, 11]
+[07:46:12] VERTS | A1-bathroom-toilet_instance | [5, 6, 9, 11, 26, 27]
+[07:46:12] KOMENDA: Subdivide (MESH_OT_subdivide)
+[07:46:13] VERTS | A1-bathroom-toilet_instance | [20, 25]
+[07:46:13] KOMENDA: Select (VIEW3D_OT_select)
+[07:46:14] VERTS | A1-bathroom-toilet_instance | [26, 27]
+[07:46:16] VERTS | A1-bathroom-toilet_instance | [9, 11, 26, 27]
+[07:46:18] VERTS | A1-bathroom-toilet_instance | [9, 11, 26, 27, 28, 29]
+[07:46:18] KOMENDA: Subdivide (MESH_OT_subdivide)
+[07:46:19] VERTS | A1-bathroom-toilet_instance | [9, 11, 26, 27, 28, 29, 30, 31]
+[07:46:20] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:46:21] KOMENDA: Select Mode (MESH_OT_select_mode)
+[07:46:21] VERTS | A1-bathroom-toilet_instance | [22, 23, 24, 25]
+[07:46:21] KOMENDA: Select (VIEW3D_OT_select)
+[07:46:24] VERTS | A1-bathroom-toilet_instance | [22, 23, 24, 25, 28, 29, 30, 31]
+[07:46:27] KOMENDA: Bridge Edge Loops (MESH_OT_bridge_edge_loops)
+[07:46:53] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:46:54] KOMENDA: Select (VIEW3D_OT_select)
+[07:46:54] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:46:55] KOMENDA: Select (VIEW3D_OT_select)
+[07:46:56] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:46:57] VERTS | A1-bathroom-toilet_instance | [22, 24, 28, 31]
+[07:46:57] KOMENDA: Select (VIEW3D_OT_select)
+[07:47:14] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:47:15] KOMENDA: Select (VIEW3D_OT_select)
+[07:47:15] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:47:15] VERTS | A1-bathroom-toilet_instance | [23, 25, 29, 30]
+[07:47:15] KOMENDA: Select (VIEW3D_OT_select)
+[07:47:23] KOMENDA: Remove Annotation Layer (GPENCIL_OT_layer_annotation_remove)
+[07:47:34] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:47:37] KOMENDA: Select (VIEW3D_OT_select)
+[07:48:19] VERTS | A1-bathroom-toilet_instance | [22, 24, 28, 31]
+[07:50:01] KOMENDA: Remove Annotation Layer (GPENCIL_OT_layer_annotation_remove)
+[07:50:26] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:50:26] VERTS | A1-bathroom-toilet_instance | [23, 25, 29, 30]
+[07:50:26] KOMENDA: Select (VIEW3D_OT_select)
+[07:50:57] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:51:23] VERTS | A1-bathroom-toilet_instance | [22, 24, 28, 31]
+[07:51:23] KOMENDA: Select (VIEW3D_OT_select)
+[07:51:37] KOMENDA: Remove Annotation Layer (GPENCIL_OT_layer_annotation_remove)
+[07:52:00] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:52:10] KOMENDA: Select (VIEW3D_OT_select)
+[07:53:11] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:55:13] KOMENDA: Select (VIEW3D_OT_select)
+[07:55:14] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:55:17] KOMENDA: Select (VIEW3D_OT_select)
+[07:55:22] VERTS | A1-bedroom_instance_left | [12, 15]
+[07:55:22] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:55:23] KOMENDA: Select Mode (MESH_OT_select_mode)
+[07:58:47] KOMENDA: Local View (VIEW3D_OT_localview)
+[07:59:15] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[07:59:20] KOMENDA: Show Hidden Objects (OBJECT_OT_hide_view_clear)
+[07:59:23] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:00:08] KOMENDA: Show Hidden Objects (OBJECT_OT_hide_view_clear)
+[08:00:10] KOMENDA: Select (OUTLINER_OT_item_activate)
+[08:00:24] KOMENDA: Select (VIEW3D_OT_select)
+[08:00:24] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:00:28] VERTS | A1-bedroom_instance_left | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+[08:00:28] KOMENDA: (De)select All (MESH_OT_select_all)
+[08:00:43] KOMENDA: Select (OUTLINER_OT_item_activate)
+[08:00:54] KOMENDA: Select (VIEW3D_OT_select)
+[08:00:55] KOMENDA: Select (OUTLINER_OT_item_activate)
+[08:01:04] VERTS | A1-bathroom-toilet_instance | [22, 24, 28, 31]
+[08:01:06] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:01:13] KOMENDA: Select (VIEW3D_OT_select)
+[08:01:14] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:01:16] KOMENDA: Select (VIEW3D_OT_select)
+[08:01:17] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:01:20] KOMENDA: Select (VIEW3D_OT_select)
+[08:02:19] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:02:23] KOMENDA: Select (VIEW3D_OT_select)
+[08:02:59] VERTS | A1-bedroom_instance_left | [12, 15]
+[08:02:59] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:03:00] KOMENDA: Select (VIEW3D_OT_select)
+[08:03:02] VERTS | A1-bedroom_instance_left | [8, 9, 10, 11, 19, 22]
+[08:03:04] VERTS | A1-bedroom_instance_left | [5, 9, 18, 19, 21]
+[08:03:12] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:03:12] KOMENDA: Select (VIEW3D_OT_select)
+[08:03:14] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:03:14] KOMENDA: Select (VIEW3D_OT_select)
+[08:03:21] VERTS | A1-bedroom_instance_left | [5, 9, 18, 19, 21, 24, 25, 26, 27, 28]
+[08:03:21] KOMENDA: Subdivide (MESH_OT_subdivide)
+[08:03:23] VERTS | A1-bedroom_instance_left | [5, 9, 18, 19, 21]
+[08:03:23] KOMENDA: Select (VIEW3D_OT_select)
+[08:03:24] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[08:03:24] KOMENDA: Select (VIEW3D_OT_select)
+[08:04:00] VERTS | A1-bedroom_instance_left | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+[08:04:00] KOMENDA: (De)select All (MESH_OT_select_all)
+[08:04:12] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:04:13] VERTS | A1-bedroom_instance_left | [1, 2, 12, 13, 15]
+[08:04:13] KOMENDA: Select (VIEW3D_OT_select)
+[08:04:23] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:04:24] VERTS | A1-bedroom_instance_left | [5, 9]
+[08:04:24] KOMENDA: Select (VIEW3D_OT_select)
+[08:04:26] VERTS | A1-bedroom_instance_left | [5, 9, 18, 21]
+[08:04:27] VERTS | A1-bedroom_instance_left | [1, 2]
+[08:04:29] VERTS | A1-bedroom_instance_left | [5, 9]
+[08:04:30] VERTS | A1-bedroom_instance_left | [5, 9, 19, 21]
+[08:04:39] VERTS | A1-bedroom_instance_left | [5, 9]
+[08:04:40] VERTS | A1-bedroom_instance_left | [5, 9, 24]
+[08:04:40] KOMENDA: Subdivide (MESH_OT_subdivide)
+[08:04:42] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:04:43] VERTS | A1-bedroom_instance_left | [21]
+[08:04:43] KOMENDA: Select (VIEW3D_OT_select)
+[08:04:44] VERTS | A1-bedroom_instance_left | [21, 24]
+[08:04:47] KOMENDA: Vertex Connect Path (MESH_OT_vert_connect_path)
+[08:04:48] KOMENDA: Select (VIEW3D_OT_select)
+[08:04:50] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:04:50] KOMENDA: Select (VIEW3D_OT_select)
+[08:04:52] VERTS | A1-base_instantiator-rest_and_hygiene_quarters | [36, 48, 64, 65, 68, 69]
+[08:04:52] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:04:54] VERTS | A1-base_instantiator-rest_and_hygiene_quarters | [44]
+[08:04:54] KOMENDA: Select (VIEW3D_OT_select)
+[08:04:54] VERTS | A1-base_instantiator-rest_and_hygiene_quarters | [22]
+[08:04:55] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:04:56] KOMENDA: Select (VIEW3D_OT_select)
+[08:05:26] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:05:26] KOMENDA: Select (VIEW3D_OT_select)
+[08:05:28] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:05:29] KOMENDA: Select (VIEW3D_OT_select)
+[08:05:31] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:05:32] KOMENDA: Select (VIEW3D_OT_select)
+[08:05:32] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:05:34] KOMENDA: Select (VIEW3D_OT_select)
+[08:05:34] VERTS | A1-bedroom_instance_left | [2]
+[08:05:36] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:05:37] VERTS | A1-bedroom_instance_left | [9, 19]
+[08:05:37] KOMENDA: Select (VIEW3D_OT_select)
+[08:05:38] VERTS | A1-bedroom_instance_left | [9, 19, 21, 24]
+[08:05:54] VERTS | A1-bedroom_instance_left | [9, 19, 21, 24, 25, 26]
+[08:05:54] KOMENDA: Subdivide (MESH_OT_subdivide)
+[08:05:56] VERTS | A1-bedroom_instance_left | [9, 19, 21, 24, 25, 26, 27, 28]
+[08:06:11] VERTS | A1-bedroom_instance_left | [9, 19, 21, 24]
+[08:06:14] VERTS | A1-bedroom_instance_left | [9, 19, 21, 24, 25, 26]
+[08:06:17] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:06:17] KOMENDA: Select (VIEW3D_OT_select)
+[08:06:18] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:06:21] VERTS | A1-bedroom_instance_left | [9, 19, 21, 24]
+[08:06:26] VERTS | A1-bedroom_instance_left | [9, 19]
+[08:06:26] KOMENDA: Select (VIEW3D_OT_select)
+[08:06:31] VERTS | A1-bedroom_instance_left | [9, 19, 25]
+[08:06:31] KOMENDA: Subdivide (MESH_OT_subdivide)
+[08:06:32] VERTS | A1-bedroom_instance_left | [9, 19, 25, 26]
+[08:06:34] VERTS | A1-bedroom_instance_left | [9, 19]
+[08:06:35] VERTS | A1-bedroom_instance_left | [9, 19, 21, 24]
+[08:06:35] KOMENDA: Select (VIEW3D_OT_select)
+[08:06:37] VERTS | A1-bedroom_instance_left | [9, 19, 21, 24, 25, 26]
+[08:06:37] KOMENDA: Subdivide (MESH_OT_subdivide)
+[08:06:38] VERTS | A1-bedroom_instance_left | [9, 19, 21, 24, 25, 26, 27, 28]
+[08:06:39] VERTS | A1-bedroom_instance_left | [26, 27]
+[08:06:39] KOMENDA: Select (VIEW3D_OT_select)
+[08:06:59] VERTS | A1-bedroom_instance_left | [0, 1]
+[08:06:59] VERTS | A1-bedroom_instance_left | [26, 27]
+[08:07:03] VERTS | A1-bedroom_instance_left | [27, 28]
+[08:07:07] VERTS | A1-bedroom_instance_left | [25, 28]
+[08:07:53] VERTS | A1-bedroom_instance_left | [21, 28]
+[08:07:53] VERTS | A1-bedroom_instance_left | [27, 28]
+[08:08:04] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:08:06] KOMENDA: Select (VIEW3D_OT_select)
+[08:08:07] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:08:08] KOMENDA: Select (VIEW3D_OT_select)
+[08:08:12] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:08:15] VERTS | A1-bathroom-toilet_instance | [10, 11]
+[08:08:15] KOMENDA: Select (VIEW3D_OT_select)
+[08:08:24] VERTS | A1-bathroom-toilet_instance | [10, 11, 32]
+[08:08:24] KOMENDA: Subdivide (MESH_OT_subdivide)
+[08:08:26] VERTS | A1-bathroom-toilet_instance | [10, 11, 32, 33]
+[08:08:32] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:08:33] VERTS | A1-bathroom-toilet_instance | [33]
+[08:08:33] KOMENDA: Select (VIEW3D_OT_select)
+[08:08:35] VERTS | A1-bathroom-toilet_instance | [32]
+[08:08:39] VERTS | A1-bathroom-toilet_instance | [33]
+[08:08:39] VERTS | A1-bathroom-toilet_instance | [10, 11, 32, 33]
+[08:08:41] VERTS | A1-bathroom-toilet_instance | [10, 11]
+[08:08:47] VERTS | A1-bathroom-toilet_instance | [3, 6, 10, 11]
+[08:08:54] VERTS | A1-bathroom-toilet_instance | [3, 6, 10, 11, 32, 33]
+[08:08:54] KOMENDA: Subdivide (MESH_OT_subdivide)
+[08:08:56] VERTS | A1-bathroom-toilet_instance | [3, 6, 10, 11, 32, 33, 34, 35]
+[08:09:00] VERTS | A1-bathroom-toilet_instance | [33, 35]
+[08:09:00] KOMENDA: Select (VIEW3D_OT_select)
+[08:09:01] VERTS | A1-bathroom-toilet_instance | [32, 33, 34, 35]
+[08:09:06] KOMENDA: Bridge Edge Loops (MESH_OT_bridge_edge_loops)
+[08:09:08] VERTS | A1-bathroom-toilet_instance | [32, 33, 34, 35, 36, 37]
+[08:09:08] KOMENDA: Subdivide (MESH_OT_subdivide)
+[08:09:10] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:09:11] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:09:12] VERTS | A1-bathroom-toilet_instance | [37]
+[08:09:12] KOMENDA: Select (VIEW3D_OT_select)
+[08:09:18] VERTS | A1-bathroom-toilet_instance | [36]
+[08:09:18] VERTS | A1-bathroom-toilet_instance | [-1]
+[08:09:19] VERTS | A1-bathroom-toilet_instance | [38]
+[08:09:23] KOMENDA: Rip (MESH_OT_rip_move)
+[08:09:24] VERTS | A1-bathroom-toilet_instance | [36]
+[08:09:25] VERTS | A1-bathroom-toilet_instance | [37]
+[08:09:30] VERTS | A1-bathroom-toilet_instance | [36]
+[08:09:30] KOMENDA: Select (VIEW3D_OT_select)
+[08:09:36] VERTS | A1-bathroom-toilet_instance | [35]
+[08:09:40] VERTS | A1-bathroom-toilet_instance | [34]
+[08:09:51] VERTS | A1-bathroom-toilet_instance | [32]
+[08:09:54] VERTS | A1-bathroom-toilet_instance | [33]
+[08:12:09] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:12:09] KOMENDA: Select (VIEW3D_OT_select)
+[08:12:09] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:12:10] VERTS | A1-bathroom-toilet_instance | [36]
+[08:12:10] KOMENDA: Select (VIEW3D_OT_select)
+[08:12:11] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:12:11] VERTS | A1-bathroom-toilet_instance | [36, 37]
+[08:12:11] KOMENDA: Select (VIEW3D_OT_select)
+[08:12:12] VERTS | A1-bathroom-toilet_instance | [34, 35, 36, 37]
+[08:12:21] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:12:22] KOMENDA: Select (VIEW3D_OT_select)
+[08:12:32] KOMENDA: Delete (MESH_OT_delete)
+[08:12:33] KOMENDA: Select (VIEW3D_OT_select)
+[08:12:33] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:12:35] KOMENDA: Select (VIEW3D_OT_select)
+[08:12:35] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:12:36] KOMENDA: Select (VIEW3D_OT_select)
+[08:12:40] VERTS | A1-bedroom_instance_left | [27, 28]
+[08:12:40] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:12:41] KOMENDA: Select (VIEW3D_OT_select)
+[08:12:49] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:12:50] KOMENDA: Select (VIEW3D_OT_select)
+[08:12:52] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:12:53] KOMENDA: Select (VIEW3D_OT_select)
+[08:12:53] VERTS | A1-bedroom_instance_left | [25, 26, 27, 28]
+[08:12:55] KOMENDA: Delete (MESH_OT_delete)
+[08:12:57] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:12:58] VERTS | A1-bedroom_instance_left | [1, 2]
+[08:12:58] KOMENDA: Select (VIEW3D_OT_select)
+[08:12:58] VERTS | A1-bedroom_instance_left | [26, 27]
+[08:13:01] VERTS | A1-bedroom_instance_left | [1, 2, 26, 27]
+[08:13:02] VERTS | A1-bedroom_instance_left | [1, 2]
+[08:13:03] VERTS | A1-bedroom_instance_left | [9, 24]
+[08:13:03] VERTS | A1-bedroom_instance_left | [26, 27]
+[08:13:04] VERTS | A1-bedroom_instance_left | [1, 2, 26, 27]
+[08:13:04] VERTS | A1-bedroom_instance_left | [26, 27]
+[08:13:05] VERTS | A1-bedroom_instance_left | [1, 2, 12, 16, 19, 22, 25, 26, 27]
+[08:13:05] KOMENDA: Pick Shortest Path (MESH_OT_shortest_path_pick)
+[08:13:47] KOMENDA: Select (VIEW3D_OT_select)
+[08:13:47] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:13:47] KOMENDA: Select (VIEW3D_OT_select)
+[08:14:03] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[08:14:04] KOMENDA: Select (VIEW3D_OT_select)
+[08:14:22] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:14:22] VERTS | A1-bedroom_instantiator_right | [1, 2]
+[08:14:22] KOMENDA: Select (VIEW3D_OT_select)
+[08:14:31] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:14:32] KOMENDA: Select (VIEW3D_OT_select)
+[08:14:42] VERTS | A1-bedroom_instance_left | [1, 2]
+[08:14:42] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:14:46] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:14:50] VERTS | A1-bedroom_instance_left | [27]
+[08:14:51] VERTS | A1-bedroom_instance_left | [1, 2]
+[08:14:53] VERTS | A1-bedroom_instance_left | [27]
+[08:14:54] VERTS | A1-bedroom_instance_left | [1, 2]
+[08:14:55] VERTS | A1-bedroom_instance_left | [27]
+[08:14:56] VERTS | A1-bedroom_instance_left | [29, 30]
+[08:14:56] KOMENDA: Extrude at Cursor Move (MESH_OT_polybuild_extrude_at_cursor_move)
+[08:14:57] KOMENDA: Poly Build Delete at Cursor (MESH_OT_polybuild_delete_at_cursor)
+[08:15:50] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:15:50] KOMENDA: Select (VIEW3D_OT_select)
+[08:16:06] VERTS | A1-base_instantiator-rest_and_hygiene_quarters | [22]
+[08:16:06] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:16:07] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:16:08] VERTS | A1-bathroom-toilet_instance | [36]
+[08:16:12] VERTS | A1-bathroom-toilet_instance | [34, 37]
+[08:16:12] KOMENDA: Select (VIEW3D_OT_select)
+[08:16:12] VERTS | A1-bathroom-toilet_instance | [36, 37]
+[08:16:20] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:16:21] KOMENDA: Select (VIEW3D_OT_select)
+[08:16:27] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:16:31] VERTS | A1-bedroom_instance_left | [1, 2]
+[08:16:31] KOMENDA: Select (VIEW3D_OT_select)
+[08:16:32] VERTS | A1-bedroom_instance_left | [27, 28]
+[08:16:55] VERTS | A1-bedroom_instance_left | [5, 24]
+[08:16:56] VERTS | A1-bedroom_instance_left | [27, 28]
+[08:17:03] KOMENDA: Select Mode (MESH_OT_select_mode)
+[08:17:03] VERTS | A1-bedroom_instance_left | [1, 2, 12, 13, 15]
+[08:17:03] KOMENDA: Select (VIEW3D_OT_select)
+[08:17:10] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:17:11] KOMENDA: Select (VIEW3D_OT_select)
+[08:17:11] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:17:14] VERTS | A1-bedroom_instance_left | [9, 24, 26, 27]
+[08:17:14] KOMENDA: Select (VIEW3D_OT_select)
+[08:17:18] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:17:18] KOMENDA: Select (VIEW3D_OT_select)
+[08:17:22] VERTS | A1-bathroom-toilet_instance | [36, 37]
+[08:17:22] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:17:23] KOMENDA: Select (VIEW3D_OT_select)
+[08:17:35] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:17:41] KOMENDA: Select (VIEW3D_OT_select)
+[08:17:43] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:17:44] KOMENDA: Select (VIEW3D_OT_select)
+[08:17:46] VERTS | A1-bathroom-toilet_instance | [3, 10, 32, 34, 37]
+[08:18:00] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:18:01] KOMENDA: Select (VIEW3D_OT_select)
+[08:18:03] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:18:04] VERTS | A1-bathroom-toilet_instance | [32, 33, 36, 37]
+[08:18:04] KOMENDA: Select (VIEW3D_OT_select)
+[08:18:22] VERTS | A1-bathroom-toilet_instance | [8, 9, 10, 11, 28, 29, 34, 35]
+[08:18:31] VERTS | A1-bathroom-toilet_instance | [15, 16, 18, 19]
+[08:18:31] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[08:18:33] KOMENDA: Select (VIEW3D_OT_select)

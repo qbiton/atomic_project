@@ -1,0 +1,634 @@
+[23:36:59] === SESJA ATOMIC START: 2026_04_14_23_36_59 ===
+[23:37:12] VERTS | A1-bedroom_instantiator_right | [20]
+[23:38:49] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:38:49] KOMENDA: Select (VIEW3D_OT_select)
+[23:39:05] KOMENDA: Apply Object Transform (OBJECT_OT_transform_apply)
+[23:39:07] KOMENDA: Select (VIEW3D_OT_select)
+[23:39:09] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:40:33] VERTS | A1-bedroom_instantiator_right | [0]
+[23:40:33] KOMENDA: Snap Cursor to Selected (VIEW3D_OT_snap_cursor_to_selected)
+[23:41:56] VERTS | A1-bedroom_instantiator_right | [20]
+[23:42:44] VERTS | A1-bedroom_instantiator_right | [27]
+[23:42:44] KOMENDA: Select (VIEW3D_OT_select)
+[23:42:56] KOMENDA: Move (TRANSFORM_OT_translate)
+[23:42:56] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.15, 75.99)
+[23:42:56] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.13, 76.01)
+[23:42:56] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.93, -897.11, 76.02)
+[23:42:56] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.93, -897.05, 76.07)
+[23:42:56] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.93, -896.97, 76.11)
+[23:42:56] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.94, -896.9, 76.15)
+[23:42:56] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.93, -896.81, 76.19)
+[23:42:56] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.71, 76.23)
+[23:42:56] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.91, -896.65, 76.25)
+[23:42:56] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.06, -895.59, 75.98)
+[23:42:58] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.98)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.15, 75.98)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.93, -897.15, 75.99)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.94, -897.14, 76.0)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.95, -897.12, 76.0)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.97, -897.1, 76.01)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.99, -897.08, 76.03)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.01, -897.05, 76.04)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.05, -897.0, 76.06)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.09, -896.94, 76.08)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.15, -896.87, 76.11)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.19, -896.82, 76.14)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.24, -896.75, 76.17)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.27, -896.7, 76.18)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.29, -896.66, 76.19)
+[23:43:07] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.34, -896.61, 76.22)
+[23:43:08] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.35, -896.6, 76.22)
+[23:43:08] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.35, -896.58, 76.22)
+[23:43:08] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.36, -896.57, 76.23)
+[23:43:08] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.38, -896.57, 76.25)
+[23:43:08] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.4, -896.55, 76.25)
+[23:43:08] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.06, -895.59, 75.98)
+[23:43:08] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.98)
+[23:43:14] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.97)
+[23:43:14] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.96)
+[23:43:14] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.94)
+[23:43:14] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.91)
+[23:43:14] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.87)
+[23:43:14] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.83)
+[23:43:14] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.8)
+[23:43:14] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.78)
+[23:43:14] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.7)
+[23:43:14] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.69)
+[23:43:14] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.98)
+[23:43:15] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.99)
+[23:43:15] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(460.06, -895.59, 75.98)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.96, -897.1, 76.06)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.96, -897.14, 76.06)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.96, -897.21, 76.07)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.96, -897.26, 76.07)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.95, -897.3, 76.06)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.94, -897.34, 76.05)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.93, -897.37, 76.04)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.93, -897.4, 76.04)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.45, 76.03)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.91, -897.5, 76.02)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.9, -897.53, 76.01)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.9, -897.55, 76.01)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.9, -897.56, 76.01)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.9, -897.55, 76.01)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.9, -897.52, 76.0)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.89, -897.5, 76.0)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.89, -897.48, 75.99)
+[23:43:16] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.89, -897.46, 75.99)
+[23:43:17] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.89, -897.46, 75.98)
+[23:43:17] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.89, -897.45, 75.98)
+[23:43:17] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.88, -897.41, 75.96)
+[23:43:17] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.88, -897.39, 75.96)
+[23:43:17] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.16, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.14, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -897.06, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.98, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.9, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.8, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.71, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.61, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.55, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.48, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.44, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.4, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.36, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.33, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -896.28, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.59, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.62, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.58, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.55, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.53, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.51, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.49, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.47, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.46, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.44, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.43, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.41, 75.98)
+[23:43:19] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -897.16, 75.99) -> POST(459.92, -895.4, 75.98)
+[23:43:23] VERTS | A1-bedroom_instantiator_right | [25]
+[23:43:23] KOMENDA: Select (VIEW3D_OT_select)
+[23:43:31] VERTS | A1-bedroom_instantiator_right | [27]
+[23:43:35] KOMENDA: Move (TRANSFORM_OT_translate)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.93, -895.39, 78.26)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.94, -895.39, 78.27)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 78.38)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 78.47)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 78.57)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 78.72)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 78.82)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 78.89)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 78.95)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 78.98)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 79.17)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 79.18)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 79.19)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 79.2)
+[23:43:35] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 78.26)
+[23:43:36] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 79.19)
+[23:43:36] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 79.17)
+[23:43:36] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 75.98)
+[23:43:36] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.4, 78.26)
+[23:43:37] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(460.11, -895.59, 75.98)
+[23:43:37] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.59, 78.26)
+[23:43:37] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.38, 78.26)
+[23:43:37] VERTS | A1-bedroom_instantiator_right | [27]
+  -> V27 PRE(459.92, -895.4, 78.26) -> POST(459.92, -895.59, 78.26)
+[23:43:40] VERTS | A1-bedroom_instantiator_right | [23]
+[23:43:40] KOMENDA: Select (VIEW3D_OT_select)
+[23:43:42] VERTS | A1-bedroom_instantiator_right | [15]
+[23:43:47] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:43:47] VERTS | A1-bedroom_instantiator_right | [15, 23, 25, 27]
+[23:43:47] KOMENDA: Select (VIEW3D_OT_select)
+[23:44:02] VERTS | A1-bedroom_instantiator_right | [5, 6, 9, 11]
+[23:44:13] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:44:14] KOMENDA: Select (VIEW3D_OT_select)
+[23:44:14] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:44:15] KOMENDA: Select (VIEW3D_OT_select)
+[23:44:20] VERTS | A1-bedroom_instantiator_right | [14, 22]
+[23:44:28] VERTS | A1-bedroom_instantiator_right | [0, 21]
+[23:44:37] VERTS | A1-bedroom_instantiator_right | [14, 22]
+[23:44:38] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:44:38] VERTS | A1-bedroom_instantiator_right | [22]
+[23:44:38] KOMENDA: Select (VIEW3D_OT_select)
+[23:44:51] KOMENDA: Move (TRANSFORM_OT_translate)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.04, -897.13, 78.27)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.03, -897.11, 78.28)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.02, -897.1, 78.28)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.02, -897.1, 78.29)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.01, -897.09, 78.29)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.15, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.17, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.21, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.24, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.3, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.37, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.45, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.51, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.58, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.66, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.74, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.85, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(461.0, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(461.14, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(461.31, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(461.37, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(461.9, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.0, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.01, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.05, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.06, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.11, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.23, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.41, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.61, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.85, -897.16, 78.26)
+[23:44:51] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.92, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.89, -897.13, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.85, -897.08, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.81, -897.04, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.76, -896.98, 78.27)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.72, -896.94, 78.27)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.69, -896.89, 78.28)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.66, -896.86, 78.28)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.63, -896.83, 78.29)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.4, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.44, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.92, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(460.89, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(461.05, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(461.15, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(461.27, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(461.32, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.04, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.14, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.17, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(462.26, -897.16, 78.26)
+[23:44:53] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.92, -897.16, 78.26)
+[23:44:56] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(470.83, -897.16, 78.26)
+[23:44:56] VERTS | A1-bedroom_instantiator_right | [22]
+  -> V22 PRE(460.05, -897.15, 78.26) -> POST(459.92, -897.16, 78.26)
+[23:45:02] KOMENDA: Select (VIEW3D_OT_select)
+[23:45:06] VERTS | A1-bedroom_instantiator_right | [26]
+[23:45:20] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:45:21] VERTS | A1-bedroom_instantiator_right | [22, 25, 26, 27]
+[23:45:21] KOMENDA: Select (VIEW3D_OT_select)
+[23:45:27] KOMENDA: Delete (MESH_OT_delete)
+[23:45:33] VERTS | A1-bedroom_instantiator_right | [19, 23, 24, 27]
+[23:45:33] KOMENDA: Select (VIEW3D_OT_select)
+[23:45:35] KOMENDA: Delete (MESH_OT_delete)
+[23:45:36] VERTS | A1-bedroom_instantiator_right | [20, 24, 26, 27]
+[23:45:36] KOMENDA: Select (VIEW3D_OT_select)
+[23:45:36] KOMENDA: Delete (MESH_OT_delete)
+[23:45:37] VERTS | A1-bedroom_instantiator_right | [5, 6, 9, 11]
+[23:45:37] KOMENDA: Select (VIEW3D_OT_select)
+[23:45:39] VERTS | A1-bedroom_instantiator_right | [15, 23, 25, 27]
+[23:45:40] VERTS | A1-bedroom_instantiator_right | [5, 6, 9, 11]
+[23:45:47] VERTS | A1-bedroom_instantiator_right | [14, 17, 20, 22, 26]
+[23:45:49] KOMENDA: Delete (MESH_OT_delete)
+[23:45:51] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:45:52] VERTS | A1-bedroom_instantiator_right | [25, 26]
+[23:45:52] KOMENDA: Select (VIEW3D_OT_select)
+[23:45:53] VERTS | A1-bedroom_instantiator_right | [5, 6, 25, 26]
+[23:46:03] KOMENDA: Bridge Edge Loops (MESH_OT_bridge_edge_loops)
+[23:46:06] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:46:09] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[23:46:16] KOMENDA: Select (VIEW3D_OT_select)
+[23:46:17] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:46:17] VERTS | A1-bedroom_instantiator_right | [17, 20]
+[23:46:17] KOMENDA: Select (VIEW3D_OT_select)
+[23:46:19] VERTS | A1-bedroom_instantiator_right | [17, 20, 23, 26]
+[23:46:21] KOMENDA: Bridge Edge Loops (MESH_OT_bridge_edge_loops)
+[23:46:27] VERTS | A1-bedroom_instantiator_right | [17, 20, 23, 24, 26]
+[23:46:27] KOMENDA: Select (VIEW3D_OT_select)
+[23:46:29] VERTS | A1-bedroom_instantiator_right | [17, 20, 23, 24, 25, 26]
+[23:46:31] VERTS | A1-bedroom_instantiator_right | [6, 11, 17, 20, 23, 24, 25, 26]
+[23:46:35] KOMENDA: Bridge Edge Loops (MESH_OT_bridge_edge_loops)
+[23:46:39] VERTS | A1-bedroom_instantiator_right | [17, 20, 23, 24, 25, 26]
+[23:46:39] KOMENDA: Pick Shortest Path (MESH_OT_shortest_path_pick)
+[23:46:49] VERTS | A1-bedroom_instantiator_right | [0, 17, 20, 21, 23, 24, 25, 26]
+[23:46:49] KOMENDA: Select (VIEW3D_OT_select)
+[23:46:52] VERTS | A1-bedroom_instantiator_right | [0, 7, 17, 20, 21, 23, 24, 25, 26]
+[23:46:56] KOMENDA: Bridge Edge Loops (MESH_OT_bridge_edge_loops)
+[23:46:59] VERTS | A1-bedroom_instantiator_right | [23, 26]
+[23:46:59] KOMENDA: Select (VIEW3D_OT_select)
+[23:47:00] VERTS | A1-bedroom_instantiator_right | [20, 23, 24, 26]
+[23:47:02] KOMENDA: Bridge Edge Loops (MESH_OT_bridge_edge_loops)
+[23:47:04] VERTS | A1-bedroom_instantiator_right | [20, 26]
+[23:47:04] KOMENDA: Select (VIEW3D_OT_select)
+[23:47:05] VERTS | A1-bedroom_instantiator_right | [20, 25, 26]
+[23:47:06] VERTS | A1-bedroom_instantiator_right | [5, 6, 20, 25, 26]
+[23:47:10] VERTS | A1-bedroom_instantiator_right | [17, 20]
+[23:47:19] VERTS | A1-bedroom_instantiator_right | [20, 26]
+[23:47:42] VERTS | A1-bedroom_instantiator_right | [27, 28]
+[23:47:43] KOMENDA: Extrude Region and Move (MESH_OT_extrude_context_move)
+[23:47:46] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:47:50] KOMENDA: Select (VIEW3D_OT_select)
+[23:47:55] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:47:56] KOMENDA: Select (VIEW3D_OT_select)
+[23:47:57] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:47:57] KOMENDA: Select (VIEW3D_OT_select)
+[23:48:02] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:48:03] KOMENDA: Select (VIEW3D_OT_select)
+[23:48:04] VERTS | A1-bedroom_instantiator_right | [20, 26]
+[23:48:07] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:48:08] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:48:09] KOMENDA: Select (VIEW3D_OT_select)
+[23:48:19] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:48:20] VERTS | A1-bedroom_instantiator_right | [20, 26, 27, 28]
+[23:48:20] KOMENDA: Select (VIEW3D_OT_select)
+[23:48:30] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:48:31] VERTS | A1-bedroom_instantiator_right | [20, 26]
+[23:48:31] KOMENDA: Select (VIEW3D_OT_select)
+[23:48:33] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:48:33] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[23:48:34] KOMENDA: Select (VIEW3D_OT_select)
+[23:48:48] VERTS | A1-bedroom_instantiator_right | [20, 26, 27, 28]
+[23:48:50] VERTS | A1-bedroom_instantiator_right | [20, 26]
+[23:49:04] VERTS | A1-bedroom_instantiator_right | [20]
+[23:49:11] VERTS | A1_door_exterior_instance | [0, 4, 8, 9, 14, 15]
+[23:49:17] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:49:20] KOMENDA: Select (VIEW3D_OT_select)
+[23:49:20] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:49:21] KOMENDA: Select (VIEW3D_OT_select)
+[23:49:51] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:49:51] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:49:52] VERTS | A1-bedroom_instantiator_right | [1, 7]
+[23:49:52] KOMENDA: Select (VIEW3D_OT_select)
+[23:49:55] VERTS | A1-bedroom_instantiator_right | [0, 1, 2, 7]
+[23:50:21] VERTS | A1-bedroom_instantiator_right | [1, 7]
+[23:50:21] VERTS | A1-bedroom_instantiator_right | [0, 2]
+[23:50:22] VERTS | A1-bedroom_instantiator_right | [0, 1, 2, 7]
+[23:50:24] VERTS | A1-bedroom_instantiator_right | [0, 1, 2, 7, 12, 13]
+[23:50:24] KOMENDA: Subdivide (MESH_OT_subdivide)
+[23:50:25] VERTS | A1-bedroom_instantiator_right | [12, 13]
+[23:50:25] KOMENDA: Select (VIEW3D_OT_select)
+[23:50:29] VERTS | A1-bedroom_instantiator_right | [0, 7, 12, 13]
+[23:50:31] VERTS | A1-bedroom_instantiator_right | [0, 7, 12, 13, 14, 15]
+[23:50:31] KOMENDA: Subdivide (MESH_OT_subdivide)
+[23:50:34] VERTS | A1-bedroom_instantiator_right | [14, 15]
+[23:50:34] KOMENDA: Select (VIEW3D_OT_select)
+[23:50:36] VERTS | A1-bedroom_instantiator_right | [9, 11, 14, 15]
+[23:50:58] VERTS | A1-bedroom_instantiator_right | [0, 12]
+[23:50:59] VERTS | A1-bedroom_instantiator_right | [0, 12, 14, 15]
+[23:51:02] VERTS | A1-bedroom_instantiator_right | [0, 12, 14, 15, 16, 17]
+[23:51:02] KOMENDA: Subdivide (MESH_OT_subdivide)
+[23:51:13] VERTS | A1-bedroom_instantiator_right | [13, 15]
+[23:51:13] KOMENDA: Select (VIEW3D_OT_select)
+[23:51:21] VERTS | A1-bedroom_instantiator_right | [16, 17]
+[23:51:27] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:51:28] VERTS | A1-bedroom_instantiator_right | [0, 14, 16, 17]
+[23:51:28] KOMENDA: Select (VIEW3D_OT_select)
+[23:51:31] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:51:33] VERTS | A1-bedroom_instantiator_right | [13]
+[23:51:33] KOMENDA: Select (VIEW3D_OT_select)
+[23:51:35] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:51:37] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:51:37] VERTS | A1-bedroom_instantiator_right | [7, 13, 14, 15, 17]
+[23:51:37] KOMENDA: Select (VIEW3D_OT_select)
+[23:51:38] VERTS | A1-bedroom_instantiator_right | [1, 2, 7, 12, 13, 14, 15, 17]
+[23:51:38] VERTS | A1-bedroom_instantiator_right | [1, 2, 7, 12, 13, 14, 15, 16, 17]
+[23:51:40] VERTS | A1-bedroom_instantiator_right | [0, 1, 2, 7, 12, 13, 14, 15, 16, 17]
+[23:51:41] KOMENDA: Hide Selected (MESH_OT_hide)
+[23:51:43] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:51:43] VERTS | A1-bedroom_instantiator_right | [5, 6]
+[23:51:43] KOMENDA: Select (VIEW3D_OT_select)
+[23:51:44] VERTS | A1-bedroom_instantiator_right | [5, 6, 9, 11]
+[23:51:46] VERTS | A1-bedroom_instantiator_right | [5, 6, 9, 11, 18, 19]
+[23:51:46] KOMENDA: Subdivide (MESH_OT_subdivide)
+[23:51:47] VERTS | A1-bedroom_instantiator_right | [18, 19]
+[23:51:47] KOMENDA: Select (VIEW3D_OT_select)
+[23:51:48] VERTS | A1-bedroom_instantiator_right | [6, 11, 18, 19]
+[23:51:49] VERTS | A1-bedroom_instantiator_right | [6, 11, 18, 19, 20, 21]
+[23:51:49] KOMENDA: Subdivide (MESH_OT_subdivide)
+[23:51:50] VERTS | A1-bedroom_instantiator_right | [20, 21]
+[23:51:50] KOMENDA: Select (VIEW3D_OT_select)
+[23:51:51] VERTS | A1-bedroom_instantiator_right | [11, 19, 20, 21]
+[23:51:52] VERTS | A1-bedroom_instantiator_right | [11, 19, 20, 21, 22, 23]
+[23:51:52] KOMENDA: Subdivide (MESH_OT_subdivide)
+[23:51:55] VERTS | A1-bedroom_instantiator_right | [0, 1, 2, 7, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23]
+[23:51:55] KOMENDA: Reveal Hidden (MESH_OT_reveal)
+[23:51:57] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:51:57] VERTS | A1-bedroom_instantiator_right | [11, 20, 22, 23]
+[23:51:57] KOMENDA: Select (VIEW3D_OT_select)
+[23:51:59] VERTS | A1-bedroom_instantiator_right | [0, 11, 14, 16, 17, 20, 22, 23]
+[23:52:01] KOMENDA: Bridge Edge Loops (MESH_OT_bridge_edge_loops)
+[23:52:04] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:52:16] VERTS | A1-bedroom_instantiator_right | [16, 17, 22, 23]
+[23:52:16] KOMENDA: Select (VIEW3D_OT_select)
+[23:52:17] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:52:22] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:52:24] VERTS | A1-bedroom_instantiator_right | [16, 17, 22]
+[23:52:24] KOMENDA: Select (VIEW3D_OT_select)
+[23:52:24] VERTS | A1-bedroom_instantiator_right | [16, 17, 22, 23]
+[23:52:29] VERTS | A1-bedroom_instantiator_right | [14]
+[23:52:39] VERTS | A1-bedroom_instantiator_right | [14, 20]
+[23:52:39] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[23:52:47] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:52:48] KOMENDA: Select (VIEW3D_OT_select)
+[23:53:06] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:53:07] VERTS | A1-bedroom_instantiator_right | [20]
+[23:53:07] KOMENDA: Select (VIEW3D_OT_select)
+[23:53:07] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:53:08] VERTS | A1-bedroom_instantiator_right | [14, 20]
+[23:53:08] KOMENDA: Select (VIEW3D_OT_select)
+[23:53:21] KOMENDA: Move (TRANSFORM_OT_translate)
+[23:53:22] VERTS | A1-bedroom_instantiator_right | [14, 20]
+  -> V14 PRE(459.92, -897.16, 78.25) -> POST(459.92, -897.16, 78.25)
+  -> V20 PRE(460.02, -897.16, 78.25) -> POST(460.02, -897.16, 78.25)
+[23:53:22] VERTS | A1-bedroom_instantiator_right | [14, 20]
+  -> V14 PRE(459.92, -897.16, 78.25) -> POST(459.92, -897.15, 78.25)
+  -> V20 PRE(460.02, -897.16, 78.25) -> POST(460.02, -897.15, 78.25)
+[23:53:22] VERTS | A1-bedroom_instantiator_right | [14, 20]
+  -> V14 PRE(459.92, -897.16, 78.25) -> POST(459.93, -897.14, 78.25)
+  -> V20 PRE(460.02, -897.16, 78.25) -> POST(460.03, -897.14, 78.25)
+[23:53:22] VERTS | A1-bedroom_instantiator_right | [14, 20]
+  -> V14 PRE(459.92, -897.16, 78.25) -> POST(459.93, -897.13, 78.25)
+  -> V20 PRE(460.02, -897.16, 78.25) -> POST(460.03, -897.13, 78.25)
+[23:53:22] VERTS | A1-bedroom_instantiator_right | [14, 20]
+  -> V14 PRE(459.92, -897.16, 78.25) -> POST(459.93, -897.12, 78.25)
+  -> V20 PRE(460.02, -897.16, 78.25) -> POST(460.03, -897.12, 78.25)
+[23:53:22] VERTS | A1-bedroom_instantiator_right | [14, 20]
+  -> V14 PRE(459.92, -897.16, 78.25) -> POST(459.93, -897.11, 78.25)
+  -> V20 PRE(460.02, -897.16, 78.25) -> POST(460.03, -897.11, 78.25)
+[23:53:22] VERTS | A1-bedroom_instantiator_right | [14, 20]
+  -> V14 PRE(459.92, -897.16, 78.25) -> POST(459.93, -897.14, 78.25)
+  -> V20 PRE(460.02, -897.16, 78.25) -> POST(460.03, -897.14, 78.25)
+[23:53:22] VERTS | A1-bedroom_instantiator_right | [14, 20]
+[23:53:51] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:53:51] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[23:54:20] KOMENDA: Select (VIEW3D_OT_select)
+[23:54:21] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:54:22] VERTS | A1-bedroom_instantiator_right | [11, 20]
+[23:54:22] KOMENDA: Select (VIEW3D_OT_select)
+[23:54:22] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:54:23] VERTS | A1-bedroom_instantiator_right | [20]
+[23:54:23] KOMENDA: Select (VIEW3D_OT_select)
+[23:54:23] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:54:24] KOMENDA: Select (VIEW3D_OT_select)
+[23:54:24] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:54:25] KOMENDA: Select (VIEW3D_OT_select)
+[23:54:57] VERTS | A1_door_interior_bedroom_right_instantiator | [4]
+[23:54:57] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:55:22] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:55:22] VERTS | A1_door_interior_bedroom_right_instantiator | [1, 5]
+[23:55:22] KOMENDA: Select (VIEW3D_OT_select)
+[23:55:23] VERTS | A1_door_interior_bedroom_right_instantiator | [1, 4, 5]
+[23:55:29] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:55:30] KOMENDA: Select (VIEW3D_OT_select)
+[23:55:35] VERTS | A1-bedroom_instantiator_right | [20]
+[23:55:35] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:55:35] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:55:40] VERTS | A1-bedroom_instantiator_right | [14]
+[23:55:40] KOMENDA: Select (VIEW3D_OT_select)
+[23:55:49] VERTS | A1-bedroom_instantiator_right | [15, 21]
+[23:55:49] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[23:56:02] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:56:10] VERTS | A1-bedroom_instantiator_right | [17]
+[23:56:10] KOMENDA: Select (VIEW3D_OT_select)
+[23:56:11] KOMENDA: Select Mode (MESH_OT_select_mode)
+[23:56:11] VERTS | A1-bedroom_instantiator_right | [12, 15]
+[23:56:11] KOMENDA: Select (VIEW3D_OT_select)
+[23:56:12] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:56:12] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[23:56:13] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:56:14] KOMENDA: Select (VIEW3D_OT_select)
+[23:56:25] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:56:26] VERTS | A1-bathroom-toilet_instance | [12, 14]
+[23:56:26] KOMENDA: Select (VIEW3D_OT_select)
+[23:56:26] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:56:29] VERTS | A1-bathroom-toilet_instance | [12, 13, 14, 17]
+[23:56:29] KOMENDA: Select (VIEW3D_OT_select)
+[23:57:09] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:57:10] KOMENDA: Select (VIEW3D_OT_select)
+[23:57:16] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:57:18] KOMENDA: Select (VIEW3D_OT_select)
+[23:57:20] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:57:21] VERTS | A1-bathroom-toilet_instance | [1, 2]
+[23:57:21] KOMENDA: Select (VIEW3D_OT_select)
+[23:58:27] VERTS | A1-bathroom-toilet_instance | [5, 9]
+[23:58:28] VERTS | A1-bathroom-toilet_instance | [12, 14]
+[23:58:28] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:58:29] KOMENDA: Select (VIEW3D_OT_select)
+[23:58:41] KOMENDA: Duplicate Linked (OBJECT_OT_duplicate_move_linked)
+[23:58:46] KOMENDA: Select (OUTLINER_OT_item_activate)
+[23:58:49] KOMENDA: Rename (OUTLINER_OT_item_rename)
+[23:59:09] VERTS | A1_door_interior_bedroom_right_instance | [1, 4, 5]
+[23:59:09] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:59:18] KOMENDA: Select (VIEW3D_OT_select)
+[23:59:19] VERTS | A1_door_interior_bedroom_right_instance | [2, 6]
+[23:59:25] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[23:59:26] KOMENDA: Select (VIEW3D_OT_select)

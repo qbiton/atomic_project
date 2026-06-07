@@ -1,0 +1,1685 @@
+[16:28:03] === SESJA ATOMIC START: 2026_04_15_16_28_03 ===
+[16:28:20] VERTS | shtelter + building A | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792, 793, 794, 795, 796, 797, 798, 799, 800, 801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828, 829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876, 877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 915]
+[16:28:33] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:28:39] KOMENDA: Select (VIEW3D_OT_select)
+[16:31:42] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:33:15] KOMENDA: Duplicate Objects (OBJECT_OT_duplicate_move)
+[16:33:20] KOMENDA: Move (TRANSFORM_OT_translate)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.83, -896.17, 76.23)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.89, -896.68, 76.96)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.92, -897.26, 77.86)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.94, -898.0, 79.06)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.89, -898.56, 80.06)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.81, -899.06, 81.02)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.77, -899.61, 81.99)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.77, -900.18, 82.92)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.8, -900.65, 83.65)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.79, -900.92, 84.12)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.77, -901.15, 84.52)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.77, -901.35, 84.85)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.73, -901.49, 85.15)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.67, -901.61, 85.45)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.57, -901.71, 85.78)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.5, -901.78, 86.01)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.42, -901.86, 86.28)
+[16:33:26] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.8, -896.0, 85.0)
+[16:33:27] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.8, -896.0, 86.0)
+[16:33:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.82, -896.0, 86.0)
+[16:33:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.8, -897.0, 78.0)
+[16:33:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.8, -897.0, 76.0)
+[16:33:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.8, -896.0, 78.0)
+[16:33:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.8, -897.0, 78.0)
+[16:33:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(338.14, -896.77, 86.4)
+[16:33:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(338.09, -896.96, 86.51)
+[16:33:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(338.05, -897.14, 86.61)
+[16:33:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.99, -897.3, 86.7)
+[16:33:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.93, -897.43, 86.78)
+[16:33:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.8, -895.0, 85.0)
+[16:33:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.083 | TRANSFORMING...
+  -> LOC: PRE(337.8, -896.0, 76.0) -> POST(337.8, -896.0, 85.0)
+[16:33:37] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:33:47] KOMENDA: Move (TRANSFORM_OT_translate)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(341.73, -891.21, 82.37)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.18, -893.4, 81.22)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.15, -896.6, 81.77)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.28, -896.75, 80.96)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.39, -896.89, 80.2)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.32, -897.1, 79.14)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.97, -897.43, 77.48)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.43, -897.66, 76.37)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(341.81, -897.82, 75.66)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(341.16, -897.92, 75.2)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(340.54, -898.0, 74.93)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(340.05, -898.03, 74.85)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.65, -898.05, 74.83)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.32, -898.05, 74.88)
+[16:33:57] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.19, -898.01, 75.08)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.14, -897.95, 75.41)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.14, -897.87, 75.84)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.14, -897.8, 76.19)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.08, -897.75, 76.49)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.03, -897.71, 76.69)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(338.98, -897.68, 76.87)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(337.8, -897.0, 76.0)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(338.85, -897.52, 77.73)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(338.84, -897.46, 78.03)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(338.92, -897.41, 78.26)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(338.97, -897.39, 78.36)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.04, -897.37, 78.49)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.14, -897.34, 78.59)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.16, -897.33, 78.66)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.16, -897.32, 78.69)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.45, -897.16, 79.52)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.5, -897.13, 79.62)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.55, -897.13, 79.65)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.63, -897.12, 79.67)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.73, -897.11, 79.7)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(339.9, -897.1, 79.75)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(340.23, -897.07, 79.85)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(340.67, -897.02, 80.0)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(341.19, -896.97, 80.2)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(341.69, -896.92, 80.38)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.04, -896.89, 80.48)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.31, -896.86, 80.56)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.51, -896.85, 80.61)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.71, -896.84, 80.61)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.96, -896.83, 80.63)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.31, -896.81, 80.66)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.81, -896.78, 80.73)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(344.23, -896.76, 80.78)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(344.51, -896.74, 80.83)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(344.68, -896.72, 80.89)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(344.73, -896.72, 80.91)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(344.76, -896.71, 80.91)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(344.78, -896.71, 80.91)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(344.83, -896.71, 80.94)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(344.93, -896.7, 80.94)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(345.03, -896.7, 80.96)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(345.1, -896.69, 80.99)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(345.42, -896.59, 81.44)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(345.47, -896.55, 81.64)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(345.47, -896.52, 81.79)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(345.47, -896.48, 82.0)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(345.44, -896.44, 82.22)
+[16:33:58] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(345.44, -896.41, 82.4)
+[16:33:59] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(344.41, -896.14, 81.22)
+[16:33:59] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.24, -893.4, 81.22)
+[16:33:59] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.24, -893.5, 81.22)
+[16:33:59] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.78, -891.21, 81.24)
+[16:33:59] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.18, -893.4, 81.22)
+[16:33:59] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(341.11, -896.14, 81.22)
+[16:33:59] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.37, -896.41, 82.9)
+[16:33:59] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.39, -896.41, 82.93)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.44, -896.41, 82.93)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.64, -896.4, 82.93)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.92, -896.38, 82.98)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.22, -896.36, 83.01)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.49, -896.35, 83.03)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.66, -896.34, 83.08)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.76, -896.33, 83.08)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.79, -896.33, 83.08)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.81, -896.34, 83.06)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.82, -896.36, 82.93)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.78, -891.21, 81.24)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.6, -896.48, 82.32)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.47, -896.53, 82.07)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.35, -896.59, 81.79)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.28, -896.63, 81.59)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(343.18, -896.67, 81.44)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.51, -896.81, 80.78)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.49, -896.81, 80.78)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.46, -896.81, 80.78)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.39, -896.82, 80.78)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.21, -896.83, 80.73)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.04, -896.85, 80.66)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(341.89, -896.87, 80.58)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(341.89, -896.88, 80.56)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(341.87, -896.89, 80.51)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(341.92, -896.91, 80.38)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.04, -896.94, 80.2)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.14, -896.97, 80.0)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.17, -897.0, 79.85)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.2, -897.02, 79.75)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.22, -897.03, 79.7)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.22, -897.03, 79.67)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.25, -897.04, 79.62)
+[16:34:00] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.25, -897.05, 79.6)
+[16:34:01] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.4, -897.01, 79.75)
+[16:34:01] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.4, -897.0, 79.85)
+[16:34:01] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.39, -896.97, 79.98)
+[16:34:01] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.39, -896.96, 80.05)
+[16:34:01] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.39, -896.94, 80.13)
+[16:34:01] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.37, -896.94, 80.13)
+[16:34:01] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.72, -896.0, 85.0) -> POST(342.37, -896.94, 80.15)
+[16:34:01] KOMENDA: Duplicate Objects (OBJECT_OT_duplicate_move)
+[16:34:14] KOMENDA: Move (TRANSFORM_OT_translate)
+[16:34:19] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 81.24)
+[16:34:19] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.6)
+[16:34:19] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.82)
+[16:34:19] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 82.37)
+[16:34:20] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.86)
+[16:34:20] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.82)
+[16:34:20] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.68)
+[16:34:20] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.49)
+[16:34:20] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.3)
+[16:34:21] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 81.24)
+[16:34:21] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.3)
+[16:34:21] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.32)
+[16:34:21] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.34)
+[16:34:21] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.63)
+[16:34:21] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.82)
+[16:34:21] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.86)
+[16:34:22] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.84)
+[16:34:22] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.56)
+[16:34:22] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.32)
+[16:34:22] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.2)
+[16:34:22] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 81.24)
+[16:34:22] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 81.22)
+[16:34:22] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 79.75)
+[16:34:22] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 79.61)
+[16:34:22] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 79.38)
+[16:34:22] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 79.16)
+[16:34:22] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 80.82)
+[16:34:23] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 80.15) -> POST(342.85, -896.94, 81.02)
+[16:34:23] KOMENDA: Select (VIEW3D_OT_select)
+[16:34:23] KOMENDA: Lasso Select (VIEW3D_OT_select_lasso)
+[16:34:23] KOMENDA: Select (VIEW3D_OT_select)
+[16:34:27] KOMENDA: Move (TRANSFORM_OT_translate)
+[16:34:28] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 81.22)
+[16:34:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 80.04)
+[16:34:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 79.96)
+[16:34:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 79.93)
+[16:34:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 79.85)
+[16:34:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 79.77)
+[16:34:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 81.22)
+[16:34:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 79.04)
+[16:34:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 78.96)
+[16:34:29] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 78.94)
+[16:34:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 78.91)
+[16:34:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 78.86)
+[16:34:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 78.4)
+[16:34:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 78.45)
+[16:34:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 78.6)
+[16:34:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 78.81)
+[16:34:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 78.96)
+[16:34:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 79.07)
+[16:34:30] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 81.02) -> POST(342.85, -896.94, 81.22)
+[16:34:31] KOMENDA: Select (VIEW3D_OT_select)
+[16:34:37] KOMENDA: Move (TRANSFORM_OT_translate)
+[16:34:38] KOMENDA: Lasso Select (VIEW3D_OT_select_lasso)
+[16:34:39] KOMENDA: Select (VIEW3D_OT_select)
+[16:34:41] KOMENDA: Move (TRANSFORM_OT_translate)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -897.0, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -896.0, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -895.0, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -894.23, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -894.08, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -893.97, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -893.88, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -893.82, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -893.74, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -893.61, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -893.47, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -893.38, 79.94)
+[16:34:46] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -893.27, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -892.65, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -892.5, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -892.4, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -892.29, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -892.22, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -892.19, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -892.16, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -892.09, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -891.78, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -891.69, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -891.62, 79.94)
+[16:34:47] OBJECT_ORIGIN | A1-base_instantiator-rest_and_hygiene_quarters.084 | TRANSFORMING...
+  -> LOC: PRE(342.85, -896.94, 79.94) -> POST(342.85, -891.64, 79.94)
+[16:35:01] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:35:03] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271]
+[16:35:03] KOMENDA: (De)select All (MESH_OT_select_all)
+[16:35:14] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [0]
+[16:35:14] KOMENDA: Select (VIEW3D_OT_select)
+[16:35:15] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271]
+[16:35:15] KOMENDA: (De)select All (MESH_OT_select_all)
+[16:35:16] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271]
+[16:35:16] KOMENDA: Select (VIEW3D_OT_select)
+[16:35:17] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271]
+[16:35:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [4, 5, 9, 10, 11, 12, 17, 18, 19, 20, 21, 22, 23, 24, 28, 31, 34, 38, 40, 42, 44, 46, 48, 49, 50, 51, 52, 53, 58, 59, 61, 63, 65, 71, 127, 128, 132, 134]
+[16:35:35] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:35:47] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [4, 5, 9, 10, 11, 12, 17, 18, 19, 20, 21, 22, 23, 24, 28, 34, 38, 40, 42, 44, 46, 48, 49, 50, 51, 52, 53, 58, 59, 61, 63, 65, 71, 127, 128, 132, 134]
+[16:35:47] KOMENDA: Select (VIEW3D_OT_select)
+[16:35:48] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [4, 5, 9, 10, 11, 12, 17, 18, 19, 20, 21, 22, 23, 24, 28, 31, 34, 38, 40, 42, 44, 46, 48, 49, 50, 51, 52, 53, 58, 59, 61, 63, 65, 71, 127, 128, 132, 134]
+[16:36:10] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:36:14] KOMENDA: Select (VIEW3D_OT_select)
+[16:36:17] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:36:20] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [136, 137, 139, 140, 141, 142, 143, 145, 146, 147, 160, 161, 163, 164, 165, 166, 167, 169, 170, 171, 175, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 258, 259, 262, 263, 266, 267, 270, 271]
+[16:36:20] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:36:23] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:36:23] KOMENDA: (De)select All (OBJECT_OT_select_all)
+[16:36:24] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:36:25] KOMENDA: (De)select All (OBJECT_OT_select_all)
+[16:36:26] KOMENDA: Select (VIEW3D_OT_select)
+[16:36:33] KOMENDA: Remove Material Slot (OBJECT_OT_material_slot_remove)
+[16:36:34] KOMENDA: Add Material Slot (OBJECT_OT_material_slot_add)
+[16:36:36] KOMENDA: Remove Material Slot (OBJECT_OT_material_slot_remove)
+[16:36:37] KOMENDA: New Material (MATERIAL_OT_new)
+[16:36:52] KOMENDA: Select (OUTLINER_OT_item_activate)
+[16:37:00] KOMENDA: Rename (OUTLINER_OT_item_rename)
+[16:37:33] VERTS | Private DC | [103]
+[16:37:33] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:37:34] KOMENDA: Select (VIEW3D_OT_select)
+[16:37:34] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:37:35] KOMENDA: Select (VIEW3D_OT_select)
+[16:37:56] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [136, 137, 139, 140, 141, 142, 143, 145, 146, 147, 160, 161, 163, 164, 165, 166, 167, 169, 170, 171, 175, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 258, 259, 262, 263, 266, 267, 270, 271]
+[16:37:56] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:38:05] KOMENDA: Select (VIEW3D_OT_select)
+[16:38:05] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:38:06] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [136, 139, 140, 141, 143, 145, 146, 147, 160, 163, 164, 165, 167, 169, 170, 171, 175, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 258, 259, 262, 263, 266, 267, 270, 271]
+[16:38:06] KOMENDA: Select Mode (MESH_OT_select_mode)
+[16:38:06] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [41, 42, 47, 50]
+[16:38:06] KOMENDA: Select (VIEW3D_OT_select)
+[16:38:13] KOMENDA: Delete (MESH_OT_delete)
+[16:38:14] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [172, 173, 244, 246]
+[16:38:14] KOMENDA: Select (VIEW3D_OT_select)
+[16:38:15] KOMENDA: Delete (MESH_OT_delete)
+[16:38:16] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [51, 52, 54, 55]
+[16:38:16] KOMENDA: Select (VIEW3D_OT_select)
+[16:38:16] KOMENDA: Delete (MESH_OT_delete)
+[16:38:18] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [151, 152, 153, 154, 166]
+[16:38:18] KOMENDA: Select (VIEW3D_OT_select)
+[16:38:18] KOMENDA: Delete (MESH_OT_delete)
+[16:38:20] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [127, 128, 129, 130, 142]
+[16:38:20] KOMENDA: Select (VIEW3D_OT_select)
+[16:38:20] KOMENDA: Delete (MESH_OT_delete)
+[16:38:27] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:38:28] KOMENDA: Select (VIEW3D_OT_select)
+[16:38:32] KOMENDA: Hide Objects (OBJECT_OT_hide_view_set)
+[16:38:33] KOMENDA: Select (VIEW3D_OT_select)
+[16:38:34] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:38:39] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [173, 174, 175, 244]
+[16:38:39] KOMENDA: Select (VIEW3D_OT_select)
+[16:38:43] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [59, 60, 61, 62, 72, 73, 130, 131, 132, 133, 134, 135, 137, 138, 139, 141, 142, 143, 144, 145, 146, 147, 154, 155, 156, 157, 158, 159, 161, 162, 163, 165, 166, 167, 168, 169, 170, 171, 174, 175, 176, 183, 184, 189, 190, 191, 192, 193, 194, 197, 198, 235, 241, 242, 243, 244, 245, 246, 247, 250, 257, 259, 261, 263, 265, 267, 269, 271]
+[16:38:43] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:38:46] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [130, 131, 132, 133, 134, 135, 137, 138, 139, 141, 142, 143, 144, 145, 146, 147, 154, 155, 156, 157, 158, 159, 161, 162, 163, 165, 166, 167, 168, 169, 170, 171, 174, 175, 176, 183, 184, 189, 190, 191, 192, 193, 194, 197, 198, 235, 241, 242, 243, 244, 245, 246, 247, 250, 257, 259, 261, 263, 265, 267, 269, 271]
+[16:38:46] KOMENDA: Select (VIEW3D_OT_select)
+[16:38:48] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [59, 60, 61, 62, 72, 73, 130, 131, 132, 133, 134, 135, 137, 138, 139, 141, 142, 143, 144, 145, 146, 147, 154, 155, 156, 157, 158, 159, 161, 162, 163, 165, 166, 167, 168, 169, 170, 171, 174, 175, 176, 183, 184, 189, 190, 191, 192, 193, 194, 197, 198, 235, 241, 242, 243, 244, 245, 246, 247, 250, 257, 259, 261, 263, 265, 267, 269, 271]
+[16:38:49] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [130, 131, 132, 133, 134, 135, 137, 138, 139, 141, 142, 143, 144, 145, 146, 147, 154, 155, 156, 157, 158, 159, 161, 162, 163, 165, 166, 167, 168, 169, 170, 171, 174, 175, 176, 183, 184, 189, 190, 191, 192, 193, 194, 197, 198, 235, 241, 242, 243, 244, 245, 246, 247, 250, 257, 259, 261, 263, 265, 267, 269, 271]
+[16:38:50] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [130, 131, 137, 138, 139, 141, 142, 144, 145, 147, 154, 155, 156, 157, 158, 159, 161, 162, 163, 165, 166, 167, 168, 169, 170, 171, 174, 175, 176, 183, 184, 189, 190, 191, 192, 193, 194, 197, 198, 235, 241, 242, 243, 244, 245, 246, 247, 250, 257, 259, 261, 263, 265, 267, 269, 271]
+[16:38:50] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:15] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [59, 60, 61, 62, 72, 73, 124, 125, 126, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 149, 150, 153, 154, 155, 157, 160, 161, 162, 163, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 183, 184, 230, 232, 233, 234, 235, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 250, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 270, 271]
+[16:39:18] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [124, 125, 126, 131, 135, 136, 137, 138, 139, 140, 141, 146, 147, 149, 150, 153, 154, 155, 157, 160, 161, 162, 163, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 183, 184, 230, 232, 233, 234, 235, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 250, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 270, 271]
+[16:39:20] KOMENDA: Delete (MESH_OT_delete)
+[16:39:21] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [127, 130, 135, 136, 138]
+[16:39:21] KOMENDA: Select (VIEW3D_OT_select)
+[16:39:22] KOMENDA: Delete (MESH_OT_delete)
+[16:39:22] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [128, 135, 137, 138, 140]
+[16:39:22] KOMENDA: Select (VIEW3D_OT_select)
+[16:39:23] KOMENDA: Delete (MESH_OT_delete)
+[16:39:25] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [59, 60, 61, 62, 72, 73, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 218, 219, 222, 223, 225, 226, 227, 228, 229, 230, 231, 232, 233, 240, 242, 243, 244, 245, 246]
+[16:39:25] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:26] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [59, 60, 61, 62, 72, 73, 133, 134, 135, 136, 137, 138, 139, 218, 219, 222, 223, 225, 226, 227, 228, 229, 230, 231, 232, 233, 240, 242, 243, 244, 245, 246]
+[16:39:27] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [129, 130, 131, 132, 135, 138]
+[16:39:27] KOMENDA: Select (VIEW3D_OT_select)
+[16:39:28] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:29] KOMENDA: Select (VIEW3D_OT_select)
+[16:39:30] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [59, 60, 61, 62, 72, 73, 129, 130, 131, 132, 135, 137, 138, 139]
+[16:39:30] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:32] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [59, 60, 61, 62, 72, 73]
+[16:39:32] KOMENDA: Pick Shortest Path (MESH_OT_shortest_path_pick)
+[16:39:33] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [129, 130, 131, 132, 135, 138]
+[16:39:33] KOMENDA: Select (VIEW3D_OT_select)
+[16:39:35] KOMENDA: Pick Shortest Path (MESH_OT_shortest_path_pick)
+[16:39:35] KOMENDA: Select (VIEW3D_OT_select)
+[16:39:36] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [59, 60, 61, 62, 72, 73, 129, 130, 131, 132, 135, 138]
+[16:39:36] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:38] KOMENDA: Hide Selected (MESH_OT_hide)
+[16:39:39] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [32, 33, 58, 63]
+[16:39:39] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:39] KOMENDA: Hide Selected (MESH_OT_hide)
+[16:39:40] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [145, 146, 147, 148, 154, 156]
+[16:39:40] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:40] KOMENDA: Hide Selected (MESH_OT_hide)
+[16:39:43] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [9, 10, 11, 12, 17, 18, 21, 22, 23, 24, 28, 29, 31, 32, 37, 38, 41, 42, 43, 44, 45, 46, 50, 51, 52, 53, 54, 58, 59, 60, 61, 63, 71, 125, 126, 127, 129, 130, 131]
+[16:39:43] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:43] KOMENDA: Hide Selected (MESH_OT_hide)
+[16:39:45] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [28, 29, 37, 38, 43, 44, 45, 46, 142, 143, 145, 146]
+[16:39:45] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:45] KOMENDA: Hide Selected (MESH_OT_hide)
+[16:39:51] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [3, 8, 15, 16, 25, 26, 27, 37, 41, 43, 45, 47, 56, 57, 141, 142, 145, 147]
+[16:39:51] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:52] KOMENDA: Hide Selected (MESH_OT_hide)
+[16:39:52] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [54, 55, 60, 62, 70]
+[16:39:52] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:53] KOMENDA: Hide Selected (MESH_OT_hide)
+[16:39:54] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [6, 7, 25, 27, 32, 33]
+[16:39:54] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:39:54] KOMENDA: Hide Selected (MESH_OT_hide)
+[16:39:58] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [0, 1, 2, 4, 5, 6, 7, 9, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 39, 40, 43, 44, 46, 47, 48, 49, 50, 51, 53, 55, 56, 57, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 78, 79, 82, 83, 86, 87, 90, 91, 92, 93, 94, 95, 96, 98, 99, 102, 106, 110, 111, 118, 119, 124, 125, 128, 131, 132, 133, 135, 136, 137, 138, 139, 141, 144, 147, 148, 149, 150, 151, 152, 153, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 187, 188, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254]
+[16:39:58] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:40:01] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [30, 33, 34, 35, 36, 39, 40, 47, 48, 49, 50, 51, 55, 61, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 75, 102, 103, 106, 110, 111, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 128, 131, 132, 133, 134, 135, 136, 137, 138, 139, 215, 218, 222, 223, 226, 227, 228, 234, 239, 240, 241, 242, 243, 244, 245, 246]
+[16:40:04] KOMENDA: Select (VIEW3D_OT_select)
+[16:40:05] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [1, 13, 14, 25, 30, 33, 34, 35, 36, 39, 40, 47, 48, 49, 50, 51, 55, 56, 57, 61, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 78, 79, 82, 83, 86, 87, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 103, 110, 116, 117, 118, 122, 123, 125, 128, 131, 132, 133, 134, 135, 136, 137, 138, 139, 141, 144, 147, 148, 149, 151, 152, 153, 155, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 170, 171, 172, 174, 175, 176, 177, 178, 180, 182, 184, 185, 186, 187, 189, 190, 191, 192, 194, 195, 196, 197, 198, 200, 202, 203, 204, 205, 206, 208, 210, 211, 212, 213, 214, 215, 216, 217, 218, 222, 223, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 238, 239, 240, 241, 242, 243, 244, 245, 246]
+[16:40:05] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:40:07] KOMENDA: Delete (MESH_OT_delete)
+[16:40:08] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [33, 34, 60, 62, 63, 64, 65, 66, 67, 68, 70, 71, 72, 73, 74, 75, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 94, 95, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 129, 130, 132, 134, 141, 142, 143, 144, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 196, 197, 198, 199, 200]
+[16:40:08] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:40:11] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [0, 1, 7, 13, 24, 29, 32, 34, 37, 45, 54, 60, 62, 64, 65, 66, 67, 68, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 129, 130, 132, 134, 141, 142, 143, 144, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200]
+[16:40:13] KOMENDA: Delete (MESH_OT_delete)
+[16:40:14] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [29, 56, 57, 58]
+[16:40:14] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:40:15] KOMENDA: Delete (MESH_OT_delete)
+[16:40:21] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 35, 36, 37, 38, 39, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78]
+[16:40:21] KOMENDA: Reveal Hidden (MESH_OT_reveal)
+[16:40:27] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:40:58] KOMENDA: Select (VIEW3D_OT_select)
+[16:41:06] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:41:10] KOMENDA: Select Mode (MESH_OT_select_mode)
+[16:41:11] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:41:11] KOMENDA: Select (VIEW3D_OT_select)
+[16:41:13] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:41:14] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [66, 67]
+[16:41:14] KOMENDA: Select (VIEW3D_OT_select)
+[16:41:15] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [28, 55, 66, 67]
+[16:41:16] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [28, 55, 59, 60, 66, 67]
+[16:41:17] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [28, 55, 59, 60, 66, 67, 75, 76]
+[16:41:22] KOMENDA: Bridge Edge Loops (MESH_OT_bridge_edge_loops)
+[16:41:28] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [28, 53, 55, 59, 60, 66, 67, 75, 76]
+[16:41:28] KOMENDA: Select (VIEW3D_OT_select)
+[16:41:31] KOMENDA: Bridge Edge Loops (MESH_OT_bridge_edge_loops)
+[16:41:57] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [67, 69]
+[16:41:57] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:41:57] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [77, 78]
+[16:41:57] KOMENDA: Select (VIEW3D_OT_select)
+[16:41:59] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [66, 67]
+[16:42:03] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [61, 66]
+[16:42:06] KOMENDA: Select Mode (MESH_OT_select_mode)
+[16:42:09] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [3, 9, 10, 31, 34, 41, 42, 45]
+[16:42:09] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:42:13] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [3, 9, 10, 13, 24, 29, 31, 32, 34, 36, 38, 40, 41, 42, 43, 44, 45, 51, 53, 55, 56, 58]
+[16:42:16] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 8, 9, 10, 13, 14, 15, 16, 17, 18, 19, 20, 24, 26, 29, 31, 32, 34, 36, 38, 40, 41, 42, 43, 44, 45, 50, 51, 53, 55, 56, 58, 61, 62, 64, 66]
+[16:42:20] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+[16:42:29] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 43, 53, 55, 56, 58, 61, 66]
+[16:42:29] KOMENDA: Select (VIEW3D_OT_select)
+[16:42:29] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+[16:42:35] KOMENDA: Move (TRANSFORM_OT_translate)
+[16:42:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 108.0)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 113.0)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 108.0)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 113.0)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 112.8)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 108.2)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.8)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.2)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 108.2)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 108.0)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 112.8)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 113.0)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 113.0)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 112.8)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 108.2)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 108.0)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 110.5)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 110.5)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.8)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.2)
+[16:42:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 107.97)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 112.97)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 107.97)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 112.97)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 112.77)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 108.17)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.77)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.17)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 108.17)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 107.97)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 112.77)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 112.97)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 112.97)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 112.77)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 108.17)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 107.97)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 110.47)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 110.47)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.77)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.17)
+[16:42:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 107.95)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 112.95)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 107.95)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 112.95)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 112.75)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 108.15)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.75)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.15)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 108.15)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 107.95)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 112.75)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 112.95)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 112.95)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 112.75)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 108.15)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 107.95)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 110.45)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 110.45)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.75)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.15)
+[16:42:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 107.91)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 112.91)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 107.91)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 112.91)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 112.71)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 108.11)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.71)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.11)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 108.11)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 107.91)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 112.71)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 112.91)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 112.91)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 112.71)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 108.11)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 107.91)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 110.41)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 110.41)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.71)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.11)
+[16:42:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 107.87)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 112.87)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 107.87)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 112.87)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 112.67)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 108.07)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.67)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.07)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 108.07)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 107.87)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 112.67)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 112.87)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 112.87)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 112.67)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 108.07)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 107.87)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 110.37)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 110.37)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.67)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.07)
+[16:42:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 107.84)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 112.84)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 107.84)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 112.84)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 112.64)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 108.04)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.64)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.04)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 108.04)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 107.84)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 112.64)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 112.84)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 112.84)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 112.64)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 108.04)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 107.84)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 110.34)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 110.34)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.64)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 108.04)
+[16:42:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 107.59)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 112.59)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 107.59)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 112.59)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 112.39)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 107.79)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.39)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 107.79)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 107.79)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 107.59)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 112.39)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 112.59)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 112.59)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 112.39)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 107.79)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 107.59)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 110.09)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 110.09)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 112.39)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 107.79)
+[16:42:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 69.56)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 74.56)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 69.56)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 74.56)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 74.36)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 69.76)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 74.36)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 69.76)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 69.76)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 69.56)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 74.36)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 74.56)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 74.56)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 74.36)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 69.76)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 69.56)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 72.06)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 72.06)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 74.36)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 69.76)
+[16:42:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 60.0)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 65.0)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 60.0)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 65.0)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 64.8)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 60.2)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 64.8)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 60.2)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 60.2)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 60.0)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 64.8)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 65.0)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 65.0)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 64.8)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 60.2)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 60.0)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 62.5)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 62.5)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 64.8)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 60.2)
+[16:42:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 51.2)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 56.2)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 51.2)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 56.2)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 56.0)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 51.4)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 56.0)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 51.4)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 51.4)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 51.2)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 56.0)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 56.2)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 56.2)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 56.0)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 51.4)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 51.2)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 53.7)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 53.7)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 56.0)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 51.4)
+[16:42:35] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 33.75)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 38.75)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 33.75)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 38.75)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 38.55)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 33.95)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 38.55)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 33.95)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 33.95)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 33.75)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 38.55)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 38.75)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 38.75)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 38.55)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 33.95)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 33.75)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 36.25)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 36.25)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 38.55)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 33.95)
+[16:42:36] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 98.53)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 103.53)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 98.53)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 103.53)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 103.33)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 98.73)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 103.33)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 98.73)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 98.73)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 98.53)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 103.33)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 103.53)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 103.53)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 103.33)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 98.73)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 98.53)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 101.03)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 101.03)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 103.33)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 98.73)
+[16:42:36] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 10.0)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 15.0)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 10.0)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 15.0)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 14.8)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 10.2)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 14.8)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 10.2)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 10.2)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 10.0)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 14.8)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 15.0)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 15.0)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 14.8)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 10.2)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 10.0)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 12.5)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 12.5)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 14.8)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 10.2)
+[16:42:36] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 73.0)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 78.0)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 73.0)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 78.0)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 77.8)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 73.2)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 77.8)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 73.2)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 73.2)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 73.0)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 77.8)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 78.0)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 78.0)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 77.8)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 73.2)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 73.0)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 75.5)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 75.5)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 77.8)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 73.2)
+[16:42:36] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 71.0)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 76.0)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 71.0)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 76.0)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 75.8)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 71.2)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 75.8)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.2)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 71.2)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 71.0)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 75.8)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 76.0)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 76.0)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 75.8)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 71.2)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 71.0)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 73.5)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 73.5)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 75.8)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.2)
+[16:42:36] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 10.0)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 15.0)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 10.0)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 15.0)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 14.8)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 10.2)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 14.8)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 10.2)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 10.2)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 10.0)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 14.8)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 15.0)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 15.0)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 14.8)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 10.2)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 10.0)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 12.5)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 12.5)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 14.8)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 10.2)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 93.97)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 98.97)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 93.97)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 98.97)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 98.77)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 94.17)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 98.77)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.17)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 94.17)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 93.97)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 98.77)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 98.97)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 98.97)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 98.77)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 94.17)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 93.97)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 96.47)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 96.47)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 98.77)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.17)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 94.11)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 99.11)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 94.11)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 99.11)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 98.91)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 94.31)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 98.91)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.31)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 94.31)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 94.11)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 98.91)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 99.11)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 99.11)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 98.91)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 94.31)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 94.11)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 96.61)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 96.61)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 98.91)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.31)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 94.24)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 99.24)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 94.24)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 99.24)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 99.04)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 94.44)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.04)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.44)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 94.44)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 94.24)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 99.04)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 99.24)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 99.24)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 99.04)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 94.44)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 94.24)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 96.74)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 96.74)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.04)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.44)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 94.35)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 99.35)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 94.35)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 99.35)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 99.15)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 94.55)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.15)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.55)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 94.55)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 94.35)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 99.15)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 99.35)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 99.35)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 99.15)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 94.55)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 94.35)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 96.85)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 96.85)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.15)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.55)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 94.36)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 99.36)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 94.36)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 99.36)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 99.16)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 94.56)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.16)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.56)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 94.56)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 94.36)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 99.16)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 99.36)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 99.36)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 99.16)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 94.56)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 94.36)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 96.86)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 96.86)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.16)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.56)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 94.37)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 99.37)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 94.37)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 99.37)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 99.17)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 94.57)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.17)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.57)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 94.57)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 94.37)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 99.17)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 99.37)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 99.37)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 99.17)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 94.57)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 94.37)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 96.87)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 96.87)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.17)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.57)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 94.39)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 99.39)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 94.39)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 99.39)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 99.19)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 94.59)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.19)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.59)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 94.59)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 94.39)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 99.19)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 99.39)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 99.39)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 99.19)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 94.59)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 94.39)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 96.89)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 96.89)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.19)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.59)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 94.32)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 99.32)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 94.32)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 99.32)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 99.12)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 94.52)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.12)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.52)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 94.52)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 94.32)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 99.12)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 99.32)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 99.32)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 99.12)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 94.52)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 94.32)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 96.82)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 96.82)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.12)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.52)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 94.14)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 99.14)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 94.14)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 99.14)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 98.94)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 94.34)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 98.94)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.34)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 94.34)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 94.14)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 98.94)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 99.14)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 99.14)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 98.94)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 94.34)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 94.14)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 96.64)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 96.64)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 98.94)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.34)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 94.05)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 99.05)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 94.05)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 99.05)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 98.85)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 94.25)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 98.85)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.25)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 94.25)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 94.05)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 98.85)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 99.05)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 99.05)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 98.85)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 94.25)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 94.05)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 96.55)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 96.55)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 98.85)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.25)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 93.95)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 98.95)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 93.95)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 98.95)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 98.75)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 94.15)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 98.75)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.15)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 94.15)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 93.95)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 98.75)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 98.95)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 98.95)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 98.75)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 94.15)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 93.95)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 96.45)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 96.45)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 98.75)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 94.15)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 71.22)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 76.22)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 71.22)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 76.22)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 76.02)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 71.42)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.02)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.42)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 71.42)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 71.22)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 76.02)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 76.22)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 76.22)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 76.02)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 71.42)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 71.22)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 73.72)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 73.72)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.02)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.42)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 71.2)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 76.2)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 71.2)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 76.2)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 76.0)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 71.4)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.0)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.4)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 71.4)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 71.2)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 76.0)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 76.2)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 76.2)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 76.0)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 71.4)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 71.2)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 73.7)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 73.7)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.0)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.4)
+[16:42:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 71.22)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 76.22)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 71.22)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 76.22)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 76.02)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 71.42)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.02)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.42)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 71.42)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 71.22)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 76.02)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 76.22)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 76.22)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 76.02)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 71.42)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 71.22)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 73.72)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 73.72)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.02)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.42)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 94.99)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 99.99)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 94.99)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 99.99)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 99.79)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 95.19)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.79)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 95.19)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 95.19)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 94.99)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 99.79)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 99.99)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 99.99)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 99.79)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 95.19)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 94.99)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 97.49)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 97.49)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 99.79)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 95.19)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 95.7)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 100.7)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 95.7)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 100.7)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 100.5)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 95.9)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.5)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 95.9)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 95.9)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 95.7)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 100.5)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 100.7)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 100.7)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 100.5)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 95.9)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 95.7)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 98.2)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 98.2)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.5)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 95.9)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 96.0)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 101.0)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 96.0)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 101.0)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 100.8)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 96.2)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.8)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.2)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 96.2)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 96.0)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 100.8)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 101.0)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 101.0)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 100.8)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 96.2)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 96.0)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 98.5)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 98.5)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.8)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.2)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 96.1)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 101.1)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 96.1)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 101.1)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 100.9)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 96.3)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.9)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.3)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 96.3)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 96.1)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 100.9)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 101.1)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 101.1)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 100.9)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 96.3)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 96.1)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 98.6)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 98.6)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.9)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.3)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 96.09)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 101.09)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 96.09)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 101.09)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 100.89)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 96.29)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.89)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.29)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 96.29)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 96.09)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 100.89)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 101.09)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 101.09)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 100.89)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 96.29)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 96.09)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 98.59)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 98.59)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.89)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.29)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 96.1)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 101.1)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 96.1)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 101.1)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 100.9)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 96.3)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.9)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.3)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 96.3)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 96.1)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 100.9)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 101.1)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 101.1)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 100.9)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 96.3)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 96.1)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 98.6)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 98.6)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.9)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.3)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 96.11)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 101.11)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 96.11)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 101.11)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 100.91)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 96.31)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.91)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.31)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 96.31)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 96.11)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 100.91)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 101.11)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 101.11)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 100.91)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 96.31)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 96.11)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 98.61)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 98.61)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.91)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.31)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 96.01)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 101.01)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 96.01)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 101.01)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 100.81)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 96.21)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.81)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.21)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 96.21)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 96.01)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 100.81)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 101.01)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 101.01)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 100.81)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 96.21)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 96.01)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 98.51)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 98.51)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.81)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.21)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 95.82)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 100.82)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 95.82)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 100.82)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 100.62)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 96.02)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.62)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.02)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 96.02)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 95.82)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 100.62)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 100.82)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 100.82)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 100.62)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 96.02)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 95.82)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 98.32)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 98.32)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.62)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 96.02)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 95.53)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 100.53)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 95.53)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 100.53)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 100.33)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 95.73)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.33)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 95.73)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 95.73)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 95.53)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 100.33)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 100.53)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 100.53)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 100.33)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 95.73)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 95.53)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 98.03)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 98.03)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.33)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 95.73)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 95.34)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 100.34)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 95.34)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 100.34)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 100.14)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 95.54)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.14)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 95.54)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 95.54)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 95.34)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 100.14)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 100.34)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 100.34)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 100.14)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 95.54)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 95.34)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 97.84)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 97.84)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 100.14)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 95.54)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 71.22)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 76.22)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 71.22)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 76.22)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 76.02)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 71.42)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.02)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.42)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 71.42)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 71.22)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 76.02)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 76.22)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 76.22)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 76.02)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 71.42)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 71.22)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 73.72)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 73.72)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.02)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.42)
+[16:42:38] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 71.2)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 76.2)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 71.2)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 76.2)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 76.0)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 71.4)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.0)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.4)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 71.4)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 71.2)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 76.0)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 76.2)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 76.2)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 76.0)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 71.4)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 71.2)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 73.7)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 73.7)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.0)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.4)
+[16:42:39] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 71.22)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 76.22)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 71.22)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 76.22)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 76.02)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 71.42)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.02)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.42)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 71.42)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 71.22)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 76.02)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 76.22)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 76.22)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 76.02)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 71.42)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 71.22)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 73.72)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 73.72)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.02)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.42)
+[16:42:39] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 71.2)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 76.2)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 71.2)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 76.2)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 76.0)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 71.4)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.0)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.4)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 71.4)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 71.2)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 76.0)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 76.2)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 76.2)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 76.0)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 71.4)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 71.2)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 73.7)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 73.7)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 76.0)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 71.4)
+[16:42:39] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 76.02)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 81.02)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 76.02)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 81.02)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 80.82)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 76.22)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 80.82)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 76.22)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 76.22)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 76.02)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 80.82)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 81.02)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 81.02)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 80.82)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 76.22)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 76.02)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 78.52)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 78.52)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 80.82)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 76.22)
+[16:42:39] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [2, 3, 7, 10, 15, 16, 19, 20, 29, 32, 40, 41, 42, 43, 53, 55, 56, 58, 61, 66]
+  -> V2 PRE(337.8, -880.8, 108.01) -> POST(337.8, -880.8, 75.82)
+  -> V3 PRE(337.8, -880.8, 113.01) -> POST(337.8, -880.8, 80.82)
+  -> V7 PRE(337.8, -881.0, 108.01) -> POST(337.8, -881.0, 75.82)
+  -> V10 PRE(337.8, -881.0, 113.01) -> POST(337.8, -881.0, 80.82)
+  -> V15 PRE(337.8, -880.8, 112.81) -> POST(337.8, -880.8, 80.62)
+  -> V16 PRE(337.8, -880.8, 108.21) -> POST(337.8, -880.8, 76.02)
+  -> V19 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 80.62)
+  -> V20 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 76.02)
+  -> V29 PRE(338.0, -880.8, 108.21) -> POST(338.0, -880.8, 76.02)
+  -> V32 PRE(338.0, -880.8, 108.01) -> POST(338.0, -880.8, 75.82)
+  -> V40 PRE(338.0, -880.8, 112.81) -> POST(338.0, -880.8, 80.62)
+  -> V41 PRE(338.0, -880.8, 113.01) -> POST(338.0, -880.8, 80.82)
+  -> V42 PRE(338.0, -881.0, 113.01) -> POST(338.0, -881.0, 80.82)
+  -> V43 PRE(338.0, -881.0, 112.81) -> POST(338.0, -881.0, 80.62)
+  -> V53 PRE(338.0, -881.0, 108.21) -> POST(338.0, -881.0, 76.02)
+  -> V55 PRE(338.0, -881.0, 108.01) -> POST(338.0, -881.0, 75.82)
+  -> V56 PRE(338.0, -880.8, 110.51) -> POST(338.0, -880.8, 78.32)
+  -> V58 PRE(338.0, -881.0, 110.51) -> POST(338.0, -881.0, 78.32)
+  -> V61 PRE(337.8, -881.0, 112.81) -> POST(337.8, -881.0, 80.62)
+  -> V66 PRE(337.8, -881.0, 108.21) -> POST(337.8, -881.0, 76.02)
+[16:42:52] KOMENDA: Select (VIEW3D_OT_select)
+[16:42:54] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [67]
+[16:42:54] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:42:55] KOMENDA: Select (VIEW3D_OT_select)
+[16:43:10] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [59]
+[16:43:21] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [69]
+[16:43:21] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:43:23] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [60, 76]
+[16:43:24] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [78]
+[16:43:27] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [77]
+[16:43:28] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [68]
+[16:43:31] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [59, 60, 67, 68, 69, 76, 77, 78]
+[16:43:34] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [65, 72]
+[16:43:34] KOMENDA: Merge by Distance (MESH_OT_remove_doubles)
+[16:43:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [65]
+[16:43:37] KOMENDA: Select (VIEW3D_OT_select)
+[16:43:42] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:44:17] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [72]
+[16:44:17] KOMENDA: Select (VIEW3D_OT_select)
+[16:44:18] KOMENDA: Select Mode (MESH_OT_select_mode)
+[16:44:19] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [28, 55]
+[16:44:19] KOMENDA: Select (VIEW3D_OT_select)
+[16:44:27] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [53, 65]
+[16:44:31] KOMENDA: Select Mode (MESH_OT_select_mode)
+[16:44:32] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [65]
+[16:44:32] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:44:35] KOMENDA: Select (VIEW3D_OT_select)
+[16:44:36] KOMENDA: Select Mode (MESH_OT_select_mode)
+[16:44:36] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [65, 72]
+[16:44:36] KOMENDA: Select (VIEW3D_OT_select)
+[16:44:37] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [65, 71, 72]
+[16:44:39] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [28, 54, 55, 72]
+[16:44:39] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:44:43] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [63, 65]
+[16:44:43] KOMENDA: Select (VIEW3D_OT_select)
+[16:44:44] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [53, 65]
+[16:44:44] KOMENDA: Select Mode (MESH_OT_select_mode)
+[16:44:44] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [65]
+[16:44:44] KOMENDA: Select (VIEW3D_OT_select)
+[16:44:47] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [53]
+[16:44:49] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [65]
+[16:44:51] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [72]
+[16:44:54] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[16:45:13] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [65]
+[16:45:18] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.084 | [65, 72]
+[16:45:27] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:45:40] KOMENDA: Select (VIEW3D_OT_select)
+[16:45:40] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:45:42] KOMENDA: Select (VIEW3D_OT_select)
+[16:45:42] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:46:23] KOMENDA: Select (VIEW3D_OT_select)
+[16:46:24] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:47:19] KOMENDA: Select (VIEW3D_OT_select)
+[16:47:20] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:47:20] KOMENDA: Select (VIEW3D_OT_select)
+[16:47:28] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:47:31] KOMENDA: (De)select All (OBJECT_OT_select_all)
+[16:47:31] KOMENDA: Hide Objects (OBJECT_OT_hide_view_set)
+[16:47:35] KOMENDA: Select (VIEW3D_OT_select)
+[16:47:38] KOMENDA: (De)select All (OBJECT_OT_select_all)
+[16:47:39] KOMENDA: Hide Objects (OBJECT_OT_hide_view_set)
+[16:47:43] KOMENDA: Select (VIEW3D_OT_select)
+[16:47:46] KOMENDA: (De)select All (OBJECT_OT_select_all)
+[16:47:48] KOMENDA: Select (VIEW3D_OT_select)
+[16:47:52] KOMENDA: (De)select All (OBJECT_OT_select_all)
+[16:47:53] KOMENDA: Hide Objects (OBJECT_OT_hide_view_set)
+[16:47:57] VERTS | filary BIG SIZE | [45]
+[16:47:57] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:47:58] KOMENDA: Select (VIEW3D_OT_select)
+[16:47:59] KOMENDA: Select Mode (MESH_OT_select_mode)
+[16:47:59] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:48:00] KOMENDA: Select (VIEW3D_OT_select)
+[16:48:23] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:48:24] VERTS | Private DC | [10, 103]
+[16:48:24] KOMENDA: Select (VIEW3D_OT_select)
+[16:48:25] VERTS | Private DC | [7, 10, 103, 109]
+[16:48:26] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[16:51:02] VERTS | Private DC | [10, 103]
+[16:51:02] KOMENDA: Select (VIEW3D_OT_select)
+[16:51:03] VERTS | Private DC | [7, 10, 103, 109]

@@ -1,0 +1,81 @@
+[12:33:53] === START SESJI: 2026_04_13_12_33_53 | Blender: 5.1.0 ===
+[12:33:59] KOMENDA: Select (VIEW3D_OT_select)
+[12:33:59] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[12:34:04] KOMENDA: Select (VIEW3D_OT_select)
+[12:34:05] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[12:34:05] KOMENDA: Select Mode (MESH_OT_select_mode)
+[12:34:07] VERTS | Area | [13]
+[12:34:07] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[12:34:07] VERTS | Area | [13]
+  -> V13 MOVED: PRE(912.621, -182.271, 33.5) -> POST(1000.0, -300.0, 33.5)
+[12:34:07] VERTS | Area | [13]
+[12:34:07] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1000.0, -300.0, 33.5) -> POST(1000.0, -200.0, 33.5)
+[12:34:07] VERTS | Area | [13]
+[12:34:07] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1000.0, -200.0, 33.5) -> POST(900.0, -200.0, 33.5)
+[12:34:07] VERTS | Area | [13]
+[12:34:07] VERTS | Area | [13]
+  -> V13 MOVED: PRE(900.0, -200.0, 33.5) -> POST(800.0, -100.0, 33.5)
+[12:34:07] VERTS | Area | [13]
+[12:34:08] VERTS | Area | [13]
+  -> V13 MOVED: PRE(800.0, -100.0, 33.5) -> POST(700.0, -100.0, 33.5)
+[12:34:08] VERTS | Area | [13]
+[12:34:08] VERTS | Area | [13]
+  -> V13 MOVED: PRE(700.0, -100.0, 33.5) -> POST(800.0, -100.0, 33.5)
+[12:34:08] KOMENDA: Move (TRANSFORM_OT_translate)
+[12:34:08] VERTS | Area | [13]
+  -> V13 MOVED: PRE(800.0, -100.0, 33.5) -> POST(900.0, -100.0, 33.5)
+[12:34:08] VERTS | Area | [13]
+[12:34:08] VERTS | Area | [13]
+  -> V13 MOVED: PRE(900.0, -100.0, 33.5) -> POST(1000.0, -100.0, 33.5)
+[12:34:08] VERTS | Area | [13]
+[12:34:08] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1000.0, -100.0, 33.5) -> POST(1100.0, -100.0, 33.5)
+[12:34:08] VERTS | Area | [13]
+[12:34:08] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1100.0, -100.0, 33.5) -> POST(1000.0, -100.0, 33.5)
+[12:34:08] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1000.0, -100.0, 33.5) -> POST(800.0, -100.0, 33.5)
+[12:34:08] VERTS | Area | [13]
+  -> V13 MOVED: PRE(800.0, -100.0, 33.5) -> POST(700.0, -100.0, 33.5)
+[12:34:08] VERTS | Area | [13]
+  -> V13 MOVED: PRE(700.0, -100.0, 33.5) -> POST(500.0, -100.0, 33.5)
+[12:34:08] VERTS | Area | [13]
+[12:34:08] VERTS | Area | [13]
+  -> V13 MOVED: PRE(500.0, -100.0, 33.5) -> POST(400.0, -100.0, 33.5)
+[12:34:08] VERTS | Area | [13]
+[12:34:09] VERTS | Area | [13]
+  -> V13 MOVED: PRE(400.0, -100.0, 33.5) -> POST(400.0, -200.0, 33.5)
+[12:34:09] VERTS | Area | [13]
+[12:34:09] VERTS | Area | [13]
+  -> V13 MOVED: PRE(400.0, -200.0, 33.5) -> POST(200.0, -300.0, 33.5)
+[12:34:09] VERTS | Area | [13]
+[12:34:09] VERTS | Area | [13]
+  -> V13 MOVED: PRE(200.0, -300.0, 33.5) -> POST(200.0, -400.0, 33.5)
+[12:34:09] VERTS | Area | [13]
+  -> V13 MOVED: PRE(200.0, -400.0, 33.5) -> POST(200.0, -500.0, 33.5)
+[12:34:09] VERTS | Area | [13]
+[12:34:09] VERTS | Area | [13]
+  -> V13 MOVED: PRE(200.0, -500.0, 33.5) -> POST(300.0, -500.0, 33.5)
+[12:34:09] VERTS | Area | [13]
+[12:34:09] VERTS | Area | [13]
+  -> V13 MOVED: PRE(300.0, -500.0, 33.5) -> POST(1000.0, -600.0, 33.5)
+[12:34:09] VERTS | Area | [13]
+[12:34:09] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1000.0, -600.0, 33.5) -> POST(1100.0, -600.0, 33.5)
+[12:34:09] VERTS | Area | [13]
+[12:34:09] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1100.0, -600.0, 33.5) -> POST(1200.0, -600.0, 33.5)
+[12:34:09] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1200.0, -600.0, 33.5) -> POST(1300.0, -600.0, 33.5)
+[12:34:09] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1300.0, -600.0, 33.5) -> POST(1400.0, -600.0, 33.5)
+[12:34:09] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1400.0, -600.0, 33.5) -> POST(1400.0, -500.0, 33.5)
+[12:34:10] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1400.0, -500.0, 33.5) -> POST(1500.0, -500.0, 33.5)
+[12:34:10] VERTS | Area | [13]
+  -> V13 MOVED: PRE(1500.0, -500.0, 33.5) -> POST(1600.0, -500.0, 33.5)
+[12:34:10] VERTS | Area | [13]
+[12:34:10] KOMENDA: Select (VIEW3D_OT_select)

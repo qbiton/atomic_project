@@ -1,0 +1,48 @@
+[10:57:24] === SESJA ATOMIC START: 2026_04_19_10_57_24 ===
+[12:59:17] VERTS | winda-done by kubi.003 | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[14:16:09] KOMENDA: Select (OUTLINER_OT_item_activate)
+[14:16:15] KOMENDA: Select (VIEW3D_OT_select)
+[14:16:18] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:16:18] KOMENDA: Select (VIEW3D_OT_select)
+[14:16:19] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:16:44] KOMENDA: Select (VIEW3D_OT_select)
+[14:16:45] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:16:51] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.001 | [178]
+[14:16:51] KOMENDA: Select (VIEW3D_OT_select)
+[14:16:52] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:17:22] KOMENDA: Select (VIEW3D_OT_select)
+[14:17:25] KOMENDA: Select (OUTLINER_OT_item_activate)
+[14:18:02] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:18:19] KOMENDA: Select (VIEW3D_OT_select)
+[14:18:20] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:18:21] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.001 | [254]
+[14:18:21] KOMENDA: Select (VIEW3D_OT_select)
+[14:18:22] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:19:07] KOMENDA: Select (OUTLINER_OT_item_activate)
+[14:19:15] KOMENDA: Select (VIEW3D_OT_select)
+[14:19:16] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[14:19:17] KOMENDA: Select (VIEW3D_OT_select)
+[14:19:34] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[14:19:46] KOMENDA: Select (VIEW3D_OT_select)
+[14:19:48] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.002 | [254]
+[14:19:48] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:19:51] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.002 | [242]
+[14:19:51] KOMENDA: Select (VIEW3D_OT_select)
+[14:19:51] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:19:53] KOMENDA: Select (VIEW3D_OT_select)
+[14:19:56] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:19:57] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.002 | [5, 12, 19, 23, 48, 49, 50, 51, 127]
+[14:19:57] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[14:19:59] KOMENDA: Move (TRANSFORM_OT_translate)
+[14:29:47] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:30:24] KOMENDA: Select (VIEW3D_OT_select)
+[14:30:24] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.001 | [5, 12, 19, 23, 48, 49, 50, 51, 127]
+[14:30:24] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:30:25] KOMENDA: Select (VIEW3D_OT_select)
+[14:30:31] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:30:31] KOMENDA: Select (VIEW3D_OT_select)
+[14:30:36] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[14:30:36] KOMENDA: Select Mode (MESH_OT_select_mode)
+[14:30:36] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.001 | [181, 189, 196, 198]
+[14:30:36] KOMENDA: Select (VIEW3D_OT_select)
+[14:30:39] VERTS | A1-base_instantiator-rest_and_hygiene_quarters.001 | [181, 182, 195, 196]
