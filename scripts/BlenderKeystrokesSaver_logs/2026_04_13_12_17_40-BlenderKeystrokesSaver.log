@@ -1,0 +1,36 @@
+[12:17:40] === START SESJI: 2026_04_13_12_17_40 | Blender: 5.1.0 ===
+[12:17:43] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[12:17:54] KOMENDA: Select Mode (MESH_OT_select_mode)
+[12:17:54] VERTS | Area | [13]
+[12:17:54] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[12:17:55] KOMENDA: Move (TRANSFORM_OT_translate)
+[12:18:01] KOMENDA: Vertex Slide (TRANSFORM_OT_vert_slide)
+[12:18:01] KOMENDA: Move (TRANSFORM_OT_translate)
+[12:18:12] KOMENDA: Select (VIEW3D_OT_select)
+[12:18:12] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[12:18:13] VERTS | Area | [12]
+[12:18:13] KOMENDA: Select (VIEW3D_OT_select)
+[12:18:16] KOMENDA: Move (TRANSFORM_OT_translate)
+[12:18:23] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[12:18:25] KOMENDA: Move (TRANSFORM_OT_translate)
+[12:18:48] KOMENDA: Select (VIEW3D_OT_select)
+[12:18:48] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[12:18:50] VERTS | Area | [12, 13]
+[12:18:50] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[12:18:51] KOMENDA: Move (TRANSFORM_OT_translate)
+[12:19:01] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[12:19:03] VERTS | Area | [2, 3, 10, 11, 14, 15]
+[12:19:03] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[12:19:05] KOMENDA: Rotate (TRANSFORM_OT_rotate)
+[12:19:07] KOMENDA: Resize (TRANSFORM_OT_resize)
+[12:19:15] KOMENDA: Rotate (TRANSFORM_OT_rotate)
+[12:19:16] VERTS | Area | [0, 1, 5, 6, 7, 8, 9]
+[12:19:16] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[12:19:37] KOMENDA: Select (VIEW3D_OT_select)
+[12:19:38] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[12:19:38] KOMENDA: Select (VIEW3D_OT_select)
+[12:19:39] KOMENDA: Move (TRANSFORM_OT_translate)
+[12:19:40] VERTS | schron atomowy | [15, 16, 17, 18]
+[12:19:40] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[12:19:40] KOMENDA: Select (VIEW3D_OT_select)
+[12:19:41] KOMENDA: Move (TRANSFORM_OT_translate)

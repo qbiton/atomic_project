@@ -1,0 +1,5 @@
+[12:16:17] === SESJA ROZPOCZĘTA | Blender: 5.1.0 ===
+[12:16:21] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[12:16:22] KOMENDA: Select Mode (MESH_OT_select_mode)
+[12:16:23] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[12:16:24] KOMENDA: Move (TRANSFORM_OT_translate)

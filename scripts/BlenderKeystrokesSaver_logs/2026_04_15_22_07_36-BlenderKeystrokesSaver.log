@@ -1,0 +1,14 @@
+[22:07:36] === SESJA ATOMIC START: 2026_04_15_22_07_36 ===
+[22:07:42] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[22:07:58] VERTS | winda-done by kubi.003 | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[22:08:05] VERTS | winda-done by kubi.003 | [6]
+[22:08:05] KOMENDA: Select (VIEW3D_OT_select)
+[22:08:06] VERTS | winda-done by kubi.003 | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[22:08:06] KOMENDA: Box Select (VIEW3D_OT_select_box)
+[22:08:09] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[22:08:18] VERTS | winda-done by kubi.003 | [0]
+[22:08:18] KOMENDA: Select (VIEW3D_OT_select)
+[22:08:21] KOMENDA: Select Mode (MESH_OT_select_mode)
+[22:08:22] VERTS | winda-done by kubi.003 | [18, 19, 23, 24]
+[22:08:22] KOMENDA: Select (VIEW3D_OT_select)
+[22:08:22] VERTS | winda-done by kubi.003 | [1, 5, 12, 23]

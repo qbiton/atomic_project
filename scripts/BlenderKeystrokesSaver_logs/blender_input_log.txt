@@ -1,0 +1,3 @@
+[2026-04-13 12:10:19] KOMENDA: Select (VIEW3D_OT_select)
+[2026-04-13 12:10:20] KOMENDA: Edit Mode (OBJECT_OT_editmode_toggle)
+[2026-04-13 12:10:21] KOMENDA: Box Select (VIEW3D_OT_select_box)
