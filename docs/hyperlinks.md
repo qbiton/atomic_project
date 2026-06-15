@@ -9,3 +9,6 @@ Unfortunately, no more music in the videos - I don't want to infringe on someone
 
 ## GIT REPO
 https://github.com/qbiton/atomic_project
+
+## SCREENSHOTS
+https://drive.google.com/drive/folders/1IKa3cAqJ6xYAsmCSbreJNpDrvImK3Iv_?usp=sharing
