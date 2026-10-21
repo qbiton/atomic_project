@@ -1,20 +1,7 @@
-# ABOUT
-This project is about setting up a nuclear powerplant with a datacenter right next to it in Bydgoszcz, Poland. It's also an atomic shelter.
-
-This project is my own contribution towards common goal of having pure energy available for necessary calulation to save humanity from it's own orchestrated demise.
-
-Feel free to share, work it, fork it, comment on it, bash on it, or do whatever else you please.
-
-The version I envision to be actually built in my town, I call "Bag End" in hail of J.R.R. Tolkien.
-
-/morfoth
-
-# RESPOSITORIES
+# RESPOSITORY
 https://github.com/qbiton/atomic_project - GitHub repository for the project 
 
-https://drive.google.com/drive/folders/1uNkFIIqzCBWeosoimD4aeo30x9eYMLyc?usp=sharing - videos making of Bag End
-
-# TOOLING USED FOR THIS PROJECT
+# TOOLS USED FOR THIS PROJECT
 https://www.blender.org/download/release/Blender5.1/blender-5.1.0-windows-x64.msi/ - free 3D software
 
 https://www.gimp.org/downloads/ - free 2D raster graphics software
