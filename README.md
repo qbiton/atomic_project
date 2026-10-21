@@ -27,14 +27,5 @@ https://github.com/users/qbiton/projects/1 - GitHub tasks sharing board
 
 https://github.com/qbiton-net/atomic_project_docs/wiki - GitHub wiki for documentation
 
-# RECOMMENDED UTILS
-https://getgreenshot.org/ - free good snipping tool for taking pictures of your desktop - I RECOMMEND, (but maybe don't get me shot)
-
-https://www.irfanview.com/64bit.htm - good image viewer and batch processing program
-
-https://gemini.google.com/ - free, but I pay for it. BEST AI FOR THE JOB.
-
-https://www.blackmagicdesign.com/products/davinciresolve - free video editing software
-
 # INSTRUCTIONS
     Copy files from \atomic_project\blender_config\ to %APPDATA%\Blender Foundation\Blender\5.1\config
